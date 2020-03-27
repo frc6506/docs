@@ -1,6 +1,6 @@
-#Getting Started
+# Getting Started
 readme.md
 
-#Infomration of about GitHub Pages
+# Infomration of about GitHub Pages
 
-#Infomration about FRC Codeing
+# Infomration about FRC Codeing
