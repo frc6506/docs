@@ -7,7 +7,9 @@
 
 ## Infomration about FRC Codeing
 [FRC Codeing Setup](codeingSetup1)
+
 [GitHub Codeing setup](codeingSetup2)
+
 [Workflow](codeingWorkflow)
 
 
@@ -16,6 +18,7 @@
 
 
 ## How to contribute
+[Reade the file](CONTRIBUTING.md)
 
 
 ## Markdown Information
