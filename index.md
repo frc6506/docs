@@ -1,21 +1,34 @@
-<head>
-  <title>Index - frc6506 docs</title>
-</head>
+# Index of FRC 6506 docs
 
 
-# Getting Started
+## Getting Started
 [Repository README](readme.md)
 
-# Geneic Infomration of about GitHub Pages
+
+## Geneic Infomration of about GitHub Pages
 [Basic Overiew of what GitHub pages is](https://pages.github.com/)
 
 [Introduction to Jekyll](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
 
 [Basic Overview of how this repostiory is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
-# Markdown Information
+
+## Markdown Information
 [Introdcution to markdown](https://www.markdownguide.org/getting-started/)
 
 [Markdwon Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-# Infomration about FRC Codeing
+
+## Infomration about FRC Codeing
+[FRC Codeing Setup](codeingSetup1)
+[GitHub Codeing setup](codeingSetup2)
+[Workflow](codeingWorkflow)
+
+
+## FRC Codeing Resources
+[SparkMax examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
+
+
+## GitHub Setup
+
+
