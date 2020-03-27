@@ -3,7 +3,7 @@
 
 ## Getting Started
 [Repository README](readme.md)
-
+[Team GitHub](https://github.com/orgs/frc6506)
 
 ## Infomration about FRC Codeing
 [FRC Codeing Setup](codeingSetup1)
@@ -13,9 +13,47 @@
 [Workflow](codeingWorkflow)
 
 
+## Basic Java
+[Codeacadmy](https://www.codecademy.com/learn/learn-java)
+[Helsinki MOOC (Massively Open Online Course)](http://moocfi.github.io/courses/2013/programming-part-1/)
+
 ## FRC Codeing Resources
+[WPILib](https://docs.wpilib.org/en/latest/)
+[Old Docs Site](https://wpilib.screenstepslive.com/s/currentCS/m/kop)
+[WPILIB Releases](https://github.com/wpilibsuite/allwpilib/releases)
+[Tomb of secrets]()
+
+### WPILib-J Codeing Resources
+[WPILibj GitHub](https://github.com/wpilibsuite/allwpilib/tree/master/wpilibj/src/main/java/edu/wpi/first/wpilibj)
+
+### Command Based Resoruces
+[Structure](https://github.com/BadRobots1014/BadRobot2013/wiki/Command-Based-Structure)
+
+### CTRE-Vex Phonix Resources (Phonix, TallonSRX, VictorSPX)
+[Phoneix Releases](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases)
+
+### SparkMax Codeing Resources
 [SparkMax examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
 
+### Other Codeing Resources
+[NavX-MXP Software](https://pdocs.kauailabs.com/navx-mxp/software/)
+[NavX-MXP Libraries](https://www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip)
+[Rev Robotics Color Sensor v3](http://www.revrobotics.com/rev-31-1557/)
+[Rev Robotics Color Sensor v3 Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples/tree/master/Java)
+[WRRF Winter Workshops 2019/2020 Resoruces](https://drive.google.com/drive/folders/1X_pbfqYTbsEST7WvVTgKHzrvP11bg0pW)
+
+## Advanced Codeing, WPILib, Concepts
+[Robot Charcterization](https://docs.wpilib.org/en/latest/docs/software/wpilib-tools/robot-characterization/introduction.html)
+
+### Vision Processing
+[Advanced Introduction ot Vision Processing- Imporantt Concepts, Manual Programing, Calculus](media.readthedocs.org/pdf/frc-pdr/latest/frc-pdr.pdf)
+[Vision Processing with Grip](firstinspires-shanghai.org/guide/technical-guide/Vision_Processing.pdf)
+[Vision Processing with Limlight]()
+[Vision Cotnrol](https://www.team254.com/documents/vision-control/)
+[Vision](https://wpilib.screenstepslive.com/s/currentCS/m/vision)
+
+## Cables and Stuff
+[USB Cable Identifcation Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
 
 ## How to contribute
 [Reade the file](CONTRIBUTING.md)
