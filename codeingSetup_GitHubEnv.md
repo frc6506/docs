@@ -1,7 +1,7 @@
 ## GitHub Enviroment Setup
 This tutorial will walk you through the installation of GitHub Desktop on your machine.
 
-![GitHub Desktop Screenshot]()
+![GitHub Desktop Screenshot](GitHub_Desktop_Screenshot.JPG)
 
 ## Steps
 1. Create an account at [GitHub](github.com/join) (and post the user name here)
