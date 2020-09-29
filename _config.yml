@@ -9,5 +9,6 @@ include:
   - LICENSE.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - codeingSetup_GitHubEnv.md
 
 theme: jekyll-theme-slate
