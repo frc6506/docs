@@ -8,7 +8,9 @@
 ## Infomration about FRC Codeing
 [FRC Codeing Setup](codeingSetup1)
 
-[GitHub Codeing setup](codeingSetup2)
+[Presentaion](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
+[Signing up for GitHub](setupGitHub)
+[GitHub Codeing setup](codeingSetup_GitHubEnv)
 
 [Workflow](codeingWorkflow)
 
