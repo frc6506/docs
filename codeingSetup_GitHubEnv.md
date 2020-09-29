@@ -15,5 +15,5 @@ Note: This presentaion contains quite a bit of information that has been spread 
 [Current link](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
 
 ## Next:
-
 [Navigateing the GitHub Desktop Interface]()
+[Index](index)
