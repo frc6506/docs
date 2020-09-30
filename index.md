@@ -8,9 +8,13 @@
 
 
 ## Infomration about FRC Codeing
-[FRC Codeing Setup](codeingSetup1)
+[Introduction to FRC Programming (from the beginging)](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/intro.html)
 
-[Presentaion](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
+[Programming Quick Start Guide](programingQuickStart)
+
+[List of Installers](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
+
+[GitHub Presentaion (Covers everything here)](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
 
 [Signing up for GitHub](setupGitHub)
 
@@ -102,4 +106,4 @@
 [Basic Overview of how this repostiory is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 
-__Updated 20200929T1706 PT__
+__Updated 20200929T1720 PT__
