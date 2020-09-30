@@ -2,7 +2,8 @@
 
 
 ## Getting Started
-[Repository README](readme.md)
+[Repository README](readme)
+
 [Team GitHub](https://github.com/orgs/frc6506)
 
 ## Infomration about FRC Codeing
