@@ -1,5 +1,5 @@
 # Programming Quick Start Guide
-1. Got to [https://github.com/wpilibsuite/allwpilib/releases](https://github.com/wpilibsuite/allwpilib/releases)
+1. Go to [https://github.com/wpilibsuite/allwpilib/releases](https://github.com/wpilibsuite/allwpilib/releases)
 2. Scroll down to the end of the latest version and download the correct installer for your computer.  In the future, it may be possible to skip this and instead setup an online IDE.
 3. Extract the executable.
 4. Install the program.
