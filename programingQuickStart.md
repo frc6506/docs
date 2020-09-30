@@ -5,3 +5,10 @@
 4. Install the program.
 5. (Recommended) [Install the Game Tools](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/frc-game-tools.html#installing-the-frc-game-tools)
 6. (Optional) [Install the Radio Confiugration Utilty](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
+7. Setup [Git and GitHub](setupGitHub)
+
+
+[Site Index](index)
+
+
+__Updated 20200929T1720 PT__
