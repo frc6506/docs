@@ -2,7 +2,7 @@
 
 
 ## Getting Started
-[Repository README](readme)
+[Repository README](https://github.com/frc6506/docs/blob/master/README.md)
 
 [Team GitHub](https://github.com/orgs/frc6506)
 
