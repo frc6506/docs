@@ -1,7 +1,3 @@
-layout: page
-title: "GitHub Account Setup"
-permalink: /setupGitHub
-
 ## GitHub Account Setup
 This tutorail will walk you through the steps of creating a GitHub Account
 
