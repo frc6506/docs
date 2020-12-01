@@ -10,5 +10,7 @@ include:
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - codeingSetup_GitHubEnv.md
+  - SetupGitHubDestkop.md
+  - setupGitHub.md
 
 theme: jekyll-theme-slate
