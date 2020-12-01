@@ -1,12 +1,16 @@
+layout: page
+title: "GitHub Account Setup"
+permalink: /setupGitHub
+
 ## GitHub Account Setup
 This tutorail will walk you through the steps of creating a GitHub Account
 
 ## Account
 1. Create an account at [GitHub (github.com/join)](github.com/join) (and post the user name here).
  > It is recommended that you use your school email in order to get perks.
-2. You can now login with your GitHub creditinals
+2. You can now login with your GitHub credentials
 
-## Optional- Get the Student Devloper Pack (free)
+## Optional- Get the GitHub Student Devloper Pack (free)
 > This requires the use of a student email account.
 1. Go to [GitHub education (education.github.com)](education.github.com).
 2. Click "Get Benifits"
@@ -22,4 +26,4 @@ In order to interface with the remote git server, you need to do one of three th
 
 [Index](index)
 
-__Updated 20200929T1729 PT__
+__Updated 20201201T1430 PT__
