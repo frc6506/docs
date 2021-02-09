@@ -36,7 +36,7 @@
 
 [WPILIB Releases](https://github.com/wpilibsuite/allwpilib/releases)
 
-[Tomb of secrets]()
+[Tomb of secrets - Slaack Login Required](https://shsrobotics6506.slack.com/files/UCH5CQTCG/FFWC5E8BV/tome_of_secrets.pdf)
 
 
 ### WPILib-J Codeing Resources
@@ -67,6 +67,10 @@
 
 ## Advanced Codeing, WPILib, Concepts
 [Robot Charcterization](https://docs.wpilib.org/en/latest/docs/software/wpilib-tools/robot-characterization/introduction.html)
+
+[Network Tables](https://docs.wpilib.org/en/stable/docs/software/networktables/index.html)
+
+[Drivetrain Simulation](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/drivesim-tutorial/index.html)
 
 
 ### Vision Processing
@@ -106,4 +110,4 @@
 [Basic Overview of how this repostiory is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 
-__Updated 20200929T1720 PT__
+__Updated 20210209T1534 PT__
