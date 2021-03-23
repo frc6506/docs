@@ -16,7 +16,7 @@ jobs:
           cd ..
      - name: markdownlint-cli 
        with:
-          files: /
-          config_file: ".markdownlint.yaml"
-          #ignore_files: "examples/ignore/*"
+        files: /
+        config_file: ".markdownlint.yaml"
+        #ignore_files: "examples/ignore/*"
           #rules: "examples/rules/custom.js"
