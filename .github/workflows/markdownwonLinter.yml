@@ -1,19 +1,9 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Markdown Linter
 on:
   - push
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
 
-name: 'Trigger: Push action'
 jobs:
   write_good_job:
     runs-on: ubuntu-latest
