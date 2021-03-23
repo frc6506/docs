@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: nosborn/github-action-markdown-cli@v1.1.1
-    - name: markdownlint-cli 
+    - name: install markdownlint-cli
+      run:
+        npm install -g markdownlint-cli
+    - name: run markdownlint-cli
       run:
         markdownlint --help
