@@ -13,6 +13,7 @@ jobs:
      - name: change direcotry
        run:
           cd ..
+          cd ..
      - name: markdownlint-cli 
        uses: nosborn/github-action-markdown-cli@v1.1.1
        with:
