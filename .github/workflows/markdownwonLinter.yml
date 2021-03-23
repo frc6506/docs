@@ -18,6 +18,5 @@ jobs:
        with:
          files: .
          config_file: ".markdownlint.yaml"
-         ignore_files: "examples/ignore/*"
-          rules: "examples/rules/custom.js"
-          #rules: "examples/rules/custom.js"
+         #ignore_files: "examples/ignore/*"
+         #rules: "examples/rules/custom.js"
