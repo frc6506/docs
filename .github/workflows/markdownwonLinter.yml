@@ -5,13 +5,18 @@ on: [push]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  job_id:
+  lint:
+  
     runs-on: ubuntu-latest
+    
     steps:
-      - name: markdownlint-cli
-        uses: nosborn/github-action-markdown-cli@v1.1.1
-        with:
-          files: ..
+     - uses: nosborn/github-action-markdown-cli@v1.1.1
+     - name: change direcotry
+       run:
+          cd ..
+     - name: markdownlint-cli 
+       with:
+          files: /
           config_file: ".markdownlint.yaml"
           #ignore_files: "examples/ignore/*"
           #rules: "examples/rules/custom.js"
