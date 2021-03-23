@@ -5,23 +5,26 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 
 jobs:
-  write_good_job:
+  lint-changelog:
+    name: Lint changelog file
     runs-on: ubuntu-latest
-    name: A job to lint Markdown files
     steps:
-    - uses: actions/checkout@v2
-    - name: write-good action step
-      id: write-good
-      uses: tomwhross/write-good-action@v1.2
-    # Use the output from the `write-good` step
-    - name: Get the write-good output
-      run: echo "${{ steps.write-good.outputs.result }}"
-    - name: Post comment
-      uses: mshick/add-pr-comment@v1
-      if: ${{ steps.write-good.outputs.result }}
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Lint files
+      uses: docker://avtodev/markdown-lint:v1 # fastest way
       with:
-        message: |
-          ${{ steps.write-good.outputs.result }}
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
-        allow-repeats: false # This is the default
+        #rules: '/.github/workflows/config/markdownlintConfig.js'
+        config: '/.github/workflows/config/markdownlintConfig.yml'
+        args: '.'
+        #ignore: './one_file.md ./another_file.md' # multiple files must be separated with single space
+
+    # Or using current repository as action:
+
+#    - name: Lint changelog file
+#      uses: avto-dev/markdown-lint@v1
+ #     with:
+ #       rules: '/lint/rules/changelog.js'
+ #       config: '/lint/config/changelog.yml'
+ #       args: './'
