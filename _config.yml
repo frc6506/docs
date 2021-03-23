@@ -12,5 +12,6 @@ include:
   - codeingSetup_GitHubEnv.md
   - SetupGitHubDestkop.md
   - setupGitHub.md
+  - advanced/characterization.md
 
 theme: jekyll-theme-slate

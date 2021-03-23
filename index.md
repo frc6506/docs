@@ -66,7 +66,7 @@
 
 
 ## Advanced Codeing, WPILib, Concepts
-[Robot Charcterization](https://docs.wpilib.org/en/latest/docs/software/wpilib-tools/robot-characterization/introduction.html)
+[Robot Charcterization](advanced/characterization.md)
 
 [Network Tables](https://docs.wpilib.org/en/stable/docs/software/networktables/index.html)
 
@@ -86,7 +86,7 @@
 
 
 ## Cables and Stuff
-[USB Cable Identifcation Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
+[USB Cable Identification Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
 
 
 ## How to contribute
