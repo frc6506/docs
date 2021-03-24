@@ -1,13 +1,15 @@
-## GitHub Enviroment Setup
+# GitHub Environment Setup
+
 This tutorial will walk you through the installation of GitHub Desktop on your machine.
 
 ![GitHub Desktop Screenshot](GitHub_Desktop_Screenshot.JPG)
 
 ## Steps
+
 1. Download [GitHub Desktop](desktop.github.com)
-2. Login with your GitHub creditinals
+2. Login with your GitHub credentials
 
+## Next
 
-## Next:
-[Navigateing the GitHub Desktop Interface]()
+[Navigating the GitHub Desktop Interface]()
 [Index](index)
