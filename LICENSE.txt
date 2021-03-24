@@ -8,7 +8,7 @@ The following files are copyright GitHub, Inc.  More infomration can be found
   at "https://github.com/logos":
   - "GitHub-Mark-120px-plus.png"
   
- Everything else is copyright 2020-21 Steel Boot Robotics and contributors and
+ Everything else is copyright 2020 Steel Boot Robotics and contributors and
   made available under the Mozilla Public License Version 2.0.  The text may
   be found in the file "MPL2-0.txt" or by navigation to
   "https://www.mozilla.org/en-US/MPL/2.0/".
