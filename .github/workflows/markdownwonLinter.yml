@@ -18,7 +18,7 @@ jobs:
         #rules: '.github/workflows/config/markdownlintConfig.js'
         config: '.github/workflows/config/markdownlintConfig.yml'
         args: '.'
-        ignore: './pages/aboutPages.md' # multiple files must be separated with single space
+        ignore: '.github/pages/aboutPages.md' # multiple files must be separated with single space
 
     # Or using current repository as action:
 
