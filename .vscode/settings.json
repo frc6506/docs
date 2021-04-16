@@ -3,6 +3,7 @@
         "CTRE",
         "Codecademy",
         "Crtl",
+        "Cteam",
         "Libj",
         "OCTOCAT",
         "WPILIB",
@@ -15,6 +16,9 @@
         "markdownlint",
         "pyspelling",
         "rojopolis",
+        "socio",
+        "steelboot",
+        "weebly",
         "wordlists",
         "wpilibsuite"
     ]

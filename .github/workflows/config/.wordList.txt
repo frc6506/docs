@@ -34,3 +34,11 @@ wpilibsuite
 WRRF
 yaml
 yml
+socio
+sexualized
+Steelboot
+steelboot
+weebly
+FRCteam
+www
+faq
