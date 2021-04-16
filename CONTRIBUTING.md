@@ -21,6 +21,7 @@ The word white list is located at `.github/workflows/config/.wordList.txt`.  Ple
 [Introduction to markdown](https://www.markdownguide.org/getting-started/)
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
 ## Markdown
 
 [![Markdown Linter](https://github.com/frc6506/docs/actions/workflows/markdownwonLinter.yml/badge.svg)](https://github.com/frc6506/docs/actions/workflows/markdownwonLinter.yml)

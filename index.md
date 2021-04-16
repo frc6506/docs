@@ -22,7 +22,7 @@
 - [GitHub Desktop setup](quickStart/setupGitHubDesktop)
 - [GitHub Desktop Guide](quickStart/gitHubDesktopTut)
 
-- [Workflow Explanation](quickStart/codeingWorkflow)
+- [Workflow Explanation](quickStart/codingWorkflow)
 
 - [GitHub Presentation (Covers most stuff here)](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
 
@@ -80,7 +80,9 @@
 
 [Vision Processing with Grip](https://firstinspires-shanghai.org/guide/technical-guide/Vision_Processing.pdf)
 
-[Vision Processing with Limelight]()
+[Limelight Docs](https://docs.limelightvision.io/en/latest/getting_started.html#imaging)
+
+[Limelight Docs - PDF  - Slack Login Required](https://shsrobotics6506.slack.com/archives/CCF7E9P1B/p1579015832000100)
 
 [Vision Control](https://www.team254.com/documents/vision-control/)
 

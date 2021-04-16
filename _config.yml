@@ -5,7 +5,7 @@ relative_links:
   collections: true
 include:
   - advanced/characterization.md
-  - quickStart/codeingWorkflow.md
+  - quickStart/codingWorkflow.md
   - quickStart/gitHubDesktopTut.md
   - quickStart/programingQuickStart.md
   - quickStart/setupGitHub.md
