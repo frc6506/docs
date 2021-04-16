@@ -1,40 +1,40 @@
 # Index of FRC 6506 docs
 
-## Getting Started
+## Welcome to frc6506/docs
 
 [Repository README](https://github.com/frc6506/docs/blob/master/README.md)
 
 [Team GitHub](https://github.com/orgs/frc6506)
 
-## Information about FRC Coding
-
-[Introduction to FRC Programming (from the beginning)](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/intro.html)
-
-[Programming Quick Start Guide](programingQuickStart)
-
-[List of Installers](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
-
-[GitHub Presentation (Covers everything here)](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
-
-[Signing up for GitHub](setupGitHub)
-
-[GitHub Coding setup](codeingSetup_GitHubEnv)
-
-[Workflow](codeingWorkflow)
-
 ## Basic Java
+
+[WPILIB New to Programming Resources](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/intro.html)
 
 [Codecademy](https://www.codecademy.com/learn/learn-java)
 
 [Helsinki MOOC (Massively Open Online Course)](http://moocfi.github.io/courses/2013/programming-part-1/)
 
+## Introduction FRC Coding in Java
+
+[Programming Quick Start Guide](quickStart/programingQuickStart)
+
+- [Signing up for GitHub](quickStart/setupGitHub)
+- [GitHub Desktop setup](quickStart/setupGitHubDesktop)
+- [GitHub Desktop Guide](quickStart/gitHubDesktopTut)
+
+- [Workflow Explanation](quickStart/codeingWorkflow)
+
+- [GitHub Presentation (Covers most stuff here)](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
+
 ## FRC Coding Resources
 
 [WPILib](https://docs.wpilib.org/en/latest/)
 
-[Old Docs Site](https://wpilib.screenstepslive.com/s/currentCS/m/kop)
+[Old WPILBJ Docs Site](https://wpilib.screenstepslive.com/s/currentCS/m/kop)
 
 [WPILIB Releases](https://github.com/wpilibsuite/allwpilib/releases)
+
+[List of Official Installers](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
 
 [Tomb of secrets - Slack Login Required](https://shsrobotics6506.slack.com/files/UCH5CQTCG/FFWC5E8BV/tome_of_secrets.pdf)
 
@@ -109,4 +109,4 @@
 [Basic Overview of how this repository is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 <br>
-_Updated 20210324T0850 PDT_
+_Updated 20210415T1810 PDT_

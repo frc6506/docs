@@ -4,14 +4,15 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.md
-  - index.md
-  - LICENSE.md
+  - advanced/characterization.md
+  - quickStart/codeingWorkflow.md
+  - quickStart/gitHubDesktopTut.md
+  - quickStart/programingQuickStart.md
+  - quickStart/setupGitHub.md
+  - quickStart/setupGitHubDesktop.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
-  - codeingSetup_GitHubEnv.md
-  - SetupGitHubDestkop.md
-  - setupGitHub.md
-  - advanced/characterization.md
-
+  - index.md
+  - README.md
+  
 theme: jekyll-theme-slate
