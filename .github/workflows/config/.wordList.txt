@@ -16,6 +16,7 @@ github
 gmail
 html
 https
+Kanban
 linter
 markdownlint
 MXP
