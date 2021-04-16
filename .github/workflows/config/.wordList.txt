@@ -5,6 +5,7 @@ Codecademy
 config
 Crtl
 CTRE
+declutter
 drivetrain
 Drivetrain
 exe

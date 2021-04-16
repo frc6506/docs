@@ -42,7 +42,7 @@ Now that you have a repository, you need to prepare it fo use by the programming
 ![Repository Access Control Add Dialog](repoAccessAdd.png)
 1. Search for `CORE` and select `frc6506/core`
 ![Repository Add and Set Permissions Add Dialog](repoAccessAddPermissions.png)
-1. Select `Write` to allow all members of the `frc6506/CORE` (the main programming team) team to write.  Don't worry about admins, organization admins already have acce4ss to everything.
+1. Select `Write` to allow all members of the `frc6506/CORE` (the main programming team) team to write.  Don't worry about admins, organization admins already have access to everything.
 1. Click the green `Add frc6506/core to this repository` button.
 
 <br>
