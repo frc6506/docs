@@ -14,7 +14,7 @@ This guide will explain how to create an official team repository and share it w
 1. Give it name- include the project and year.  We don't currently have a set pattern yet.
 1. Give it a description
 1. Set the repository to `Public`.
-   > Most FRC doing is not too complex or special, so theres not reason not try to be friendly with others.  It also makes it easier to work with others.
+   > Most FRC doing is not too complex or special, so there is no reason not try to be friendly with others.  It also makes it easier to work with others.
 1. Make sure `Add a README file` is checked.  This will present a nice space to make notes on the project.
 1. For WPILib-j projects: Check `Add .gitignore` and select `Java` for the `.gitignore template`.
    > This saves bandwidth by ignore build optimization files that can easily be generated locally.
@@ -31,7 +31,7 @@ Turn off things you don't need/won't use in `Settings` > `Options`.  These are d
 
 ## Initial Setup (Necessary Part)
 
-Now that you have a repository, you need to prepare it fo use by the programming team.
+Now that you have a repository, you need to prepare it for use by the programming team.
    > Note that this tutorial assumes one is adding an entire organizational team to the repository instead of adding everyone individually.  You can also use these instructions to add other people who are not part of a team quickly, although the `Invite teams or people` button may move around.
 
 ![Repository Access Controls](repoAccessControls.png)
