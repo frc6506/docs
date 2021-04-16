@@ -1,5 +1,8 @@
 # Contributor Covenant Code of Conduct
 
+Please note that team wide, school, district, and FIRST policies supersede
+this document should they conflict.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
