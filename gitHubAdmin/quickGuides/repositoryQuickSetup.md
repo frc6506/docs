@@ -49,7 +49,7 @@ Now that you have a repository, you need to prepare it for use by the programmin
 You can now clone the repository to your computers and use it to manage files and versions.  See the index for help getting started with git/GitHub on your local computer and FRC coding.
 
 <br>
-[Admin Overview](overview)
+[Admin Overview](https://frc6506.github.io/docs/gitHubAdmin/overview)
 [Site Index](https://frc6506.github.io/docs/index)
 <br>
 _Updated 20210416T1509 PDT_
