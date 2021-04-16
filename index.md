@@ -58,7 +58,9 @@
 
 [NavX-MXP Software](https://pdocs.kauailabs.com/navx-mxp/software/)
 
-[NavX-MXP Libraries](https://www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip)[Rev Robotics Color Sensor v3](http://www.revrobotics.com/rev-31-1557/)
+[NavX-MXP Libraries](https://www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip)
+
+[Rev Robotics Color Sensor v3](http://www.revrobotics.com/rev-31-1557/)
 
 [Rev Robotics Color Sensor v3 Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples/tree/master/Java)
 
@@ -74,9 +76,9 @@
 
 ### Vision Processing
 
-[Advanced Introduction ot Vision Processing- Important Concepts, Manual Programing, Calculus](media.readthedocs.org/pdf/frc-pdr/latest/frc-pdr.pdf)
+[Advanced Introduction ot Vision Processing- Important Concepts, Manual Programing, Calculus](https://media.readthedocs.org/pdf/frc-pdr/latest/frc-pdr.pdf)
 
-[Vision Processing with Grip](firstinspires-shanghai.org/guide/technical-guide/Vision_Processing.pdf)
+[Vision Processing with Grip](https://firstinspires-shanghai.org/guide/technical-guide/Vision_Processing.pdf)
 
 [Vision Processing with Limelight]()
 
@@ -88,25 +90,11 @@
 
 [USB Cable Identification Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
 
-## How to contribute
+## How to contribute and Information about GitHub pages
 
-[Reade the file](CONTRIBUTING.md)
-
-## Markdown Information
-
-[Introduction to markdown](https://www.markdownguide.org/getting-started/)
-
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Read the file](CONTRIBUTING.md)
 
 ## GitHub Setup (Admin)
-
-## Generic Information of about GitHub Pages
-
-[Basic Overview of what GitHub pages is](https://pages.github.com/)
-
-[Introduction to Jekyll](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
-
-[Basic Overview of how this repository is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 <br>
 _Updated 20210415T1810 PDT_

@@ -16,6 +16,11 @@ An automatic spell checker runs as a GitHub Action.  Note that at this time, the
 
 The word white list is located at `.github/workflows/config/.wordList.txt`.  Please keep it neatly formatted in alphabetical order.  The VS Code extension [Permute Lines](https://marketplace.visualstudio.com/items?itemName=earshinov.permute-lines) adds the command `Sort Lines Ascending` to the Commands Pallet ([Crtl] + [Shift] + [P]) for easier sorting.
 
+## Markdown Information
+
+[Introduction to markdown](https://www.markdownguide.org/getting-started/)
+
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 ## Markdown
 
 [![Markdown Linter](https://github.com/frc6506/docs/actions/workflows/markdownwonLinter.yml/badge.svg)](https://github.com/frc6506/docs/actions/workflows/markdownwonLinter.yml)
@@ -37,6 +42,14 @@ MD033 - Ban on Inline HTML.  Inline HTML is permitted were necessary.
 Nonprofits get free space, but the compress images action should be running anyways.
 
 [Site Index](https://frc6506.github.io/docs/index)
+
+## Generic Information of about GitHub Pages
+
+[Basic Overview of what GitHub pages is](https://pages.github.com/)
+
+[Introduction to Jekyll](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+
+[Basic Overview of how this repository is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 <br>
 _Updated 20210415T1905 PDT_
