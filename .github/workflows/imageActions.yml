@@ -15,7 +15,7 @@ on:
       - '**.webp'
   push:
     branches:
-      - master # we don't have a main branch
+      - master # we don't have a main branch #why it not work now? #not it
     paths:
       - '**.jpg'
       - '**.jpeg'
@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     # Only run on main repo on and PRs that match the main repo.
     if: |
-      github.repository == 'example/example_repo' &&
+      github.repository == 'frc6506/docs' &&
       (github.event_name != 'pull_request' ||
        github.event.pull_request.head.repo.full_name == github.repository)
     steps:
