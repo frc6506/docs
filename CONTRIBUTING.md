@@ -35,7 +35,8 @@ Also checkout the VS Code extension [Markdown Preview Enhanced](https://marketpl
 
 ### Ignored Rules
 
-MD033 - Ban on Inline HTML.  Inline HTML is permitted were necessary.
+MD029 - Numbered lists may either use all 1s as number place holders or actually number the lists in order.
+MD033 - Inline HTML is currently permitted, but please avoid using it too much.
 
 ## Compress Images
 
