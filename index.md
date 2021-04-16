@@ -98,5 +98,5 @@
 
 ## GitHub Setup (Admin)
 
-<br>
+</br>
 _Updated 20210415T1810 PDT_

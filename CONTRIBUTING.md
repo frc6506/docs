@@ -1,5 +1,7 @@
 # Contributing
 
+First, please note that you will need to create your own branch or fork as the master branch is protected.  Creating your own workspace helps prevents conflicts and gives the various GitHub Actions time to inspect your work before you work goes live.
+
 ## Issues
 
 Check out the issues list
@@ -53,5 +55,5 @@ Nonprofits get free space, but the compress images action should be running anyw
 
 [Basic Overview of how this repository is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
-<br>
+</br>
 _Updated 20210415T1905 PDT_

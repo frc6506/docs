@@ -28,6 +28,8 @@
 See [https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-characterization/index.html](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-characterization/index.html) for a general overview and step by step details.
 > Note that this guide assumes that one _only_ has Python 3.7 installed, with no other Python installations alongside it.  The purpose of the above sections are to assist with this.
 
+</br>
 [Site Index](https://frc6506.github.io/docs/index)
 
-__Updated 20210323T1030 PT__
+</br>
+_Updated 20210323T1030 PT_
