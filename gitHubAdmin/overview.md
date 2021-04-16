@@ -28,7 +28,7 @@ This tab allows one to setup and manage GitHub organization-wide Kanban project 
 
 See [settings](settings)
 
-</br>
+<br>
 [Site Index](https://frc6506.github.io/docs/index)
-</br>
+<br>
 _Updated 20210415_

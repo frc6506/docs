@@ -1,7 +1,7 @@
 # Settings tab
 
-</br>
+<br>
 [Admin Overview](overview)
 [Site Index](https://frc6506.github.io/docs/index)
-</br>
+<br>
 _Updated 20210415_
