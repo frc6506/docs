@@ -6,8 +6,8 @@ relative_links:
 include:
   - advanced/characterization.md
   - gitHubAdmin/quickGuides/membersQuickSetup.md
-  - gitHubAdmin/quickGuides/orgMainteanceGuide.md
-  - gitHubAdmin/quickGuides/repositoryQuickSettup.md
+  - gitHubAdmin/quickGuides/orgMaintenanceGuide.md
+  - gitHubAdmin/quickGuides/repositoryQuickSetup.md
   - gitHubAdmin/overview.md
   - gitHubAdmin/people.md
   - gitHubAdmin/repositories.md
