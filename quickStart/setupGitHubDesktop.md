@@ -13,4 +13,4 @@ This tutorial will walk you through the installation of GitHub Desktop on your m
 
 [Navigating the GitHub Desktop Interface](quickstart/gitHubDesktopTut)
 
-[Index]((https://frc6506.github.io/docs/index))
+[Index](https://frc6506.github.io/docs/index)
