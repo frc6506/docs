@@ -1,5 +1,11 @@
 # GitHub Admin Overview
 
+## Quick start for new admins
+
+[Add Members](membersQuickSetup.md)
+[Create a Repository](repositoryQuickSetup.md)
+[Annual Maintenance](orgMaintenanceGuide.md)
+
 ## Organization Homepage
 
 ![Organization Repositories tab](gitHubOrgHomePage.png)
