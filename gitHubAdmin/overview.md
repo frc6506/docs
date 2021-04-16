@@ -2,9 +2,11 @@
 
 ## Quick start for new admins
 
-[Add Members](quickGuides/membersQuickSetup.md)
-[Create a Repository](quickGuides/repositoryQuickSetup.md)
-[Annual Maintenance](quickGuides/orgMaintenanceGuide.md)
+[Add Members](quickGuides/membersQuickSetup)
+
+[Create a Repository](quickGuides/repositoryQuickSetup)
+
+[Annual Maintenance](quickGuides/orgMaintenanceGuide)
 
 ## Organization Homepage
 
@@ -37,4 +39,4 @@ See [settings](settings)
 <br>
 [Site Index](https://frc6506.github.io/docs/index)
 <br>
-_Updated 20210415_
+_Updated 20210416T1540 PDT_
