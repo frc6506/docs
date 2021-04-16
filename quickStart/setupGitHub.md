@@ -19,7 +19,6 @@ In order to interface with the remote git server, you need to do one of three th
  - Use the generic git managmement built into VS Code, which is simple.
  - (Advanced) Use git from the command line.
   
-
-[Index](index)
+[Index](https://frc6506.github.io/docs/index)
 
 __Updated 20201201T1430 PT__

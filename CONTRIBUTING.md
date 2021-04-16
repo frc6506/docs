@@ -36,5 +36,7 @@ MD033 - Ban on Inline HTML.  Inline HTML is permitted were necessary.
 ![Compress Images](https://github.com/frc6506/docs/workflows/Compress%20Images/badge.svg)
 Nonprofits get free space, but the compress images action should be running anyways.
 
+[Site Index](https://frc6506.github.io/docs/index)
+
 <br>
 _Updated 20210415T1905 PDT_

@@ -8,7 +8,7 @@
 6. (Optional) [Install the Radio Configuration Utility](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
 7. Setup [Git and GitHub](setupGitHub)
 
-[Site Index](index)
+[Site Index](https://frc6506.github.io/docs/index)
 
 <br>
 
