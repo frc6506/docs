@@ -55,5 +55,5 @@ Nonprofits get free space, but the compress images action should be running anyw
 
 [Basic Overview of how this repository is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
-</br>
+<br>
 _Updated 20210415T1905 PDT_
