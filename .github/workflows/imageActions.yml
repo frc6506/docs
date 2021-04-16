@@ -54,5 +54,5 @@ jobs:
           branch-suffix: timestamp
           commit-message: Compress Images
           body: ${{ steps.calibre.outputs.markdown }}
-          lables: enhancement, dozer
+          labels: enhancement, dozer
           
