@@ -5,6 +5,7 @@ Codecademy
 config
 Crtl
 CTRE
+declutter
 drivetrain
 Drivetrain
 exe
@@ -13,9 +14,11 @@ frc
 FRC
 FRCteam
 github
+gitignore
 gmail
 html
 https
+Kanban
 linter
 markdownlint
 MXP
@@ -42,3 +45,4 @@ WRRF
 www
 yaml
 yml
+Sponsorships
