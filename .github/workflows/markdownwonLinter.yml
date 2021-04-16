@@ -6,7 +6,7 @@ on:
 
 jobs:
   lint-changelog:
-    name: Lint changelog file
+    name: Lint markdown files
     runs-on: ubuntu-latest
     steps:
     - name: Check out code
