@@ -15,7 +15,7 @@ on:
       - '**.webp'
   push:
     branches:
-      - main
+      - master # we don't have a main branch #why it not work now? #not it
     paths:
       - '**.jpg'
       - '**.jpeg'
@@ -29,11 +29,10 @@ jobs:
     name: calibreapp/image-actions
     runs-on: ubuntu-latest
     # Only run on main repo on and PRs that match the main repo.
-#    if: |
-#      github.repository == 'frc6506/docs'
-#      &&
-#      (github.event_name != 'pull_request' ||
- #      github.event.pull_request.head.repo.full_name == github.repository)
+    if: |
+      github.repository == 'frc6506/docs' &&
+      (github.event_name != 'pull_request' ||
+       github.event.pull_request.head.repo.full_name == github.repository)
     steps:
       - name: Checkout Branch
         uses: actions/checkout@v2
@@ -55,4 +54,5 @@ jobs:
           branch-suffix: timestamp
           commit-message: Compress Images
           body: ${{ steps.calibre.outputs.markdown }}
+          lables: enhancement, dozer
           
