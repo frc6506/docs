@@ -2,7 +2,7 @@
 
 ## Organization Homepage
 
-TODO: Add picture
+![Organization Repositories tab](gitHubOrgHomePage.png)
 
 ### Repositories Tab
 

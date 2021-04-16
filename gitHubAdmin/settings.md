@@ -1,5 +1,7 @@
 # Settings tab
 
+![Organization Settings tab](gitHubOrgSettingsProfile.png)
+
 <br>
 [Admin Overview](overview)
 [Site Index](https://frc6506.github.io/docs/index)
