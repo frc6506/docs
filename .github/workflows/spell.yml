@@ -9,3 +9,5 @@ jobs:
     - uses: actions/checkout@master
     - uses: rojopolis/spellcheck-github-actions@0.5.0
       name: Spellcheck
+      config_path: config/.spellConfig.yml # put path to configuration file here
+      task_name: Markdown
