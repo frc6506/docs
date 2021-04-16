@@ -15,9 +15,8 @@ jobs:
     - name: Lint files
       uses: docker://avtodev/markdown-lint:v1 # fastest way
       with:
-        #rules: '.github/workflows/config/markdownlintConfig.js'
-        config: '.github/workflows/config/markdownlintConfig.yml'
-        args: '.'
+        #rules: '.github/workflows/config/markdownlintConfig.js' #custom rules
+        config: '.github/workflows/config/markdownlintConfig.yml' #main config
         ignore: 'pages/aboutPages.md' # multiple files must be separated with single space
 
     # Or using current repository as action:
