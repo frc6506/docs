@@ -6,7 +6,7 @@ This tutorial will walk you through the installation of GitHub Desktop on your m
 
 ## Steps
 
-1. Download [GitHub Desktop](desktop.github.com)
+1. Download [GitHub Desktop](https://desktop.github.com)
 2. Login with your GitHub credentials
 
 ## Next
