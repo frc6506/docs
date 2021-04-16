@@ -11,5 +11,4 @@
 [Site Index](https://frc6506.github.io/docs/index)
 
 <br>
-
 _Updated 20200929T1720 PT_
