@@ -2,9 +2,9 @@
 
 ## Quick start for new admins
 
-[Add Members](membersQuickSetup.md)
-[Create a Repository](repositoryQuickSetup.md)
-[Annual Maintenance](orgMaintenanceGuide.md)
+[Add Members](quickGuides/membersQuickSetup.md)
+[Create a Repository](quickGuides/repositoryQuickSetup.md)
+[Annual Maintenance](quickGuides/orgMaintenanceGuide.md)
 
 ## Organization Homepage
 
