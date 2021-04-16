@@ -8,10 +8,12 @@ CTRE
 drivetrain
 Drivetrain
 exe
+faq
 frc
 FRC
+FRCteam
 github
-github
+gmail
 html
 https
 linter
@@ -20,11 +22,16 @@ MXP
 NavX
 py
 README
+sexualized
+socio
 SparkMax
+steelboot
+Steelboot
 TalonSRX
 txt
 USERPROFILE
 VictorSPX
+weebly
 wordList
 WPILBJ
 wpilib
@@ -32,5 +39,6 @@ WPILib
 WPILibj
 wpilibsuite
 WRRF
+www
 yaml
 yml
