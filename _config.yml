@@ -5,6 +5,9 @@ relative_links:
   collections: true
 include:
   - advanced/characterization.md
+  - gitHubAdmin/quickGuides/membersQuickSetup.md
+  - gitHubAdmin/quickGuides/orgMainteanceGuide.md
+  - gitHubAdmin/quickGuides/repositoryQuickSettup.md
   - gitHubAdmin/overview.md
   - gitHubAdmin/people.md
   - gitHubAdmin/repositories.md
