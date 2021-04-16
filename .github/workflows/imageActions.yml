@@ -15,7 +15,7 @@ on:
       - '**.webp'
   push:
     branches:
-      - master # we don't have a main branch
+      - main # we don't have a main branch #why it not work now?
     paths:
       - '**.jpg'
       - '**.jpeg'
