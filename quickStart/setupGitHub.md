@@ -23,7 +23,7 @@ In order to interface with the remote git server, you need to do one of three th
 
 - Install GitHub Desktop, which has lots of features while being simple.
    ![GitHub Desktop Screenshot](GitHub_Desktop_Screenshot.JPG)
-   [Instructions](SetupGitHubDestkop)
+   [Instructions](setupGitHubDesktop)
 - Use the generic git management built into VS Code, which is simple.
 - (Advanced) Use git from the command line.
   
