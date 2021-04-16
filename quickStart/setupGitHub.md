@@ -24,8 +24,9 @@ In order to interface with the remote git server, you need to do one of three th
    [Instructions](setupGitHubDesktop)
 - Use the generic git management built into VS Code, which is simple.
 - (Advanced) Use git from the command line.
-  
+
+</br>
 [Index](https://frc6506.github.io/docs/index)
 
-<br>
+</br>
 __Updated 20201201T1430 PT__
