@@ -6,6 +6,7 @@
         "Libj",
         "WPILIB",
         "WRRF",
+        "allwpilib",
         "avto",
         "avtodev",
         "blockquote",
@@ -13,6 +14,7 @@
         "markdownlint",
         "pyspelling",
         "rojopolis",
-        "wordlists"
+        "wordlists",
+        "wpilibsuite"
     ]
 }

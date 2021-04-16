@@ -76,7 +76,7 @@
 
 ### Vision Processing
 
-[Advanced Introduction ot Vision Processing- Important Concepts, Manual Programing, Calculus](https://media.readthedocs.org/pdf/frc-pdr/latest/frc-pdr.pdf)
+[Advanced Introduction to Vision Processing- Important Concepts, Manual Programming, Calculus](https://media.readthedocs.org/pdf/frc-pdr/latest/frc-pdr.pdf)
 
 [Vision Processing with Grip](https://firstinspires-shanghai.org/guide/technical-guide/Vision_Processing.pdf)
 
