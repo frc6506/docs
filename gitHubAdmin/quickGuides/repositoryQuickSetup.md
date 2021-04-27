@@ -17,7 +17,7 @@ This guide will explain how to create an official team repository and share it w
    > Most FRC doing is not too complex or special, so there is no reason not try to be friendly with others.  It also makes it easier to work with others.
 1. Make sure `Add a README file` is checked.  This will present a nice space to make notes on the project.
 1. For WPILib-j projects: Check `Add .gitignore` and select `Java` for the `.gitignore template`.
-   > This saves bandwidth by ignore build optimization files that can easily be generated locally.
+   > This saves bandwidth and storage space by ignoring build optimization files that can easily be generated locally.
 1. Feel free to ignore the `Choose a license` button, however if you do selected it, FIRST prefers the BSD-3-clause license.
 1. Click `Create repository`
 
