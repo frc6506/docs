@@ -4,7 +4,7 @@ This guide will explain how to add new members to the GitHub organization and th
 
 ## Adding people to the GitHub organization
 
-> This section is for adding a team member.  If you want to add an `outside collaborator` to keep things neat, such as a mentor, the process is slightly different.
+> This section is for adding a team member.  If you want to add an `outside collaborator` to keep things neat, such as for a mentor, the process is slightly different.
 
 > You will need to know everyone's GitHub username to complete this guide, or at least the email that they signed up for GitHub with.
 
