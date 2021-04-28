@@ -6,6 +6,7 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
+      - run: sudo apt-get install texlive-latex-base
       - uses: docker://pandoc/core:2.9
         with:
           args: "--from=gfm --to=pdf " # gets appended to pandoc command #useing long form to clarify args #use --output= for file
