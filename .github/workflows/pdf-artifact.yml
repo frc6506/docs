@@ -21,7 +21,7 @@ jobs:
             --standalone
             --table-of-contents
             --output=output/result.pdf
-              ../advanced/characterization.md
+              ../../advanced/characterization.md
               ../gitHubAdmin/quickGuides/membersQuickSetup.md
               ../gitHubAdmin/quickGuides/orgMaintenanceGuide.md
               ../gitHubAdmin/quickGuides/repositoryQuickSetup.md
