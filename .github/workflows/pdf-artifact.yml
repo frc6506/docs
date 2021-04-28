@@ -21,25 +21,24 @@ jobs:
             --standalone
             --table-of-contents
             --output=output/result.pdf
-            --verbose
             advanced/characterization.md
-            ../gitHubAdmin/quickGuides/membersQuickSetup.md
-            ../gitHubAdmin/quickGuides/orgMaintenanceGuide.md
-            ../gitHubAdmin/quickGuides/repositoryQuickSetup.md
-            ../gitHubAdmin/overview.md
-            ../gitHubAdmin/people.md
-            ../gitHubAdmin/repositories.md
-            ../gitHubAdmin/settings.md
-            ../gitHubAdmin/teams.md
-            ../quickStart/codingWorkflow.md
-            ../quickStart/gitHubDesktopTut.md
-            ../quickStart/programingQuickStart.md
-            ../quickStart/setupGitHub.md
-            ../quickStart/setupGitHubDesktop.md
-            ../CODE_OF_CONDUCT.md
-            ../CONTRIBUTING.md
-            ../index.md
-            ../README.md
+            gitHubAdmin/quickGuides/membersQuickSetup.md
+            gitHubAdmin/quickGuides/orgMaintenanceGuide.md
+            gitHubAdmin/quickGuides/repositoryQuickSetup.md
+            gitHubAdmin/overview.md
+            gitHubAdmin/people.md
+            gitHubAdmin/repositories.md
+            gitHubAdmin/settings.md
+            gitHubAdmin/teams.md
+            quickStart/codingWorkflow.md
+            quickStart/gitHubDesktopTut.md
+            quickStart/programingQuickStart.md
+            quickStart/setupGitHub.md
+            quickStart/setupGitHubDesktop.md
+            CODE_OF_CONDUCT.md
+            CONTRIBUTING.md
+            index.md
+            README.md
       - uses: actions/upload-artifact@master
         with:
           name: output
