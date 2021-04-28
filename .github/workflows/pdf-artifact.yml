@@ -12,6 +12,7 @@ jobs:
           # this will also include README.md
           # echo "::set-env name=FILELIST::$(printf '"%s" ' *.md)"
           # echo "FILELIST=$(*.md)" >> $GITHUB_ENV # no worky
+          ls
       - uses: docker://pandoc/latex:2.9
         with:
           args: >-  # allows you to break string into multiple lines # gets appended to pandoc command #useing long form to clarify args #use --output= for file
@@ -20,24 +21,24 @@ jobs:
             --standalone
             --table-of-contents
             --output=output/result.pdf
-              advanced/characterization.md
-              gitHubAdmin/quickGuides/membersQuickSetup.md
-              gitHubAdmin/quickGuides/orgMaintenanceGuide.md
-              gitHubAdmin/quickGuides/repositoryQuickSetup.md
-              gitHubAdmin/overview.md
-              gitHubAdmin/people.md
-              gitHubAdmin/repositories.md
-              gitHubAdmin/settings.md
-              gitHubAdmin/teams.md
-              quickStart/codingWorkflow.md
-              quickStart/gitHubDesktopTut.md
-              quickStart/programingQuickStart.md
-              quickStart/setupGitHub.md
-              quickStart/setupGitHubDesktop.md
-              CODE_OF_CONDUCT.md
-              CONTRIBUTING.md
-              index.md
-              README.md
+              /advanced/characterization.md
+              /gitHubAdmin/quickGuides/membersQuickSetup.md
+              /gitHubAdmin/quickGuides/orgMaintenanceGuide.md
+              /gitHubAdmin/quickGuides/repositoryQuickSetup.md
+              /gitHubAdmin/overview.md
+              /gitHubAdmin/people.md
+              /gitHubAdmin/repositories.md
+              /gitHubAdmin/settings.md
+              /gitHubAdmin/teams.md
+              /quickStart/codingWorkflow.md
+              /quickStart/gitHubDesktopTut.md
+              /quickStart/programingQuickStart.md
+              /quickStart/setupGitHub.md
+              /quickStart/setupGitHubDesktop.md
+              /CODE_OF_CONDUCT.md
+              /CONTRIBUTING.md
+              /index.md
+              /README.md
       - uses: actions/upload-artifact@master
         with:
           name: output
