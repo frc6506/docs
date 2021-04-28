@@ -8,4 +8,10 @@ jobs:
     steps:
       - uses: docker://pandoc/latex
         with:
-          args: "--from=gfm --to=pdf " # gets appended to pandoc command #useing long form to clarify args #use --output= for file
+          args: >-  # allows you to break string into multiple lines # gets appended to pandoc command #useing long form to clarify args #use --output= for file
+            --from=gfm
+            --to=pdf
+            --standalone
+            --table-of-contents"
+            *.md
+            **.*.md
