@@ -19,7 +19,7 @@ jobs:
             --to=pdf
             --standalone
             --table-of-contents
-            --output=output/result.pdf #${{ env.FILELIST }}
+            --output=output/result.pdf
             *.md
             **/*.md
       - uses: actions/upload-artifact@master
