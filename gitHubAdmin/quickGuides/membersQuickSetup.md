@@ -1,6 +1,6 @@
 # How to Add New Members
 
-This guide will explain how to add new members to the gitHub organization and then add them to the appropriate team.
+This guide will explain how to add new members to the GitHub organization and then add them to the appropriate team.
 
 ## Adding people to the GitHub organization
 
@@ -26,7 +26,7 @@ Now that people are part of the GitHub organization, they still needed to be add
 ![GitHub Teams tab](gitHubOrgTeamPage-QuickSetupAnnotation.png)
 
 1. Navigate to [github.com/orgs/frc6506/teams](https://github.com/orgs/frc6506/teams) in a browser, either directly or by clicking on `Teams` tab.
-2. Click on the team you want to edit to go to that team's home/profile page.  For example, the `CORE` team should contain all of the current programers.  Here is a diagram of the available teams:
+2. Click on the team you want to edit to go to that team's home/profile page.  For example, the `CORE` team should contain all of the current programmers.  Here is a diagram of the available teams:
 ![f](../orgManagement/teamsOrgChart.svg)
 ![CORE Team - Members tab](teamsMembersTab.png)
 3. Once your on the teams home/profile page, click on the `Members` tab.

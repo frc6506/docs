@@ -21,13 +21,16 @@ https
 Kanban
 linter
 markdownlint
+md
 MXP
 NavX
+orgs
 py
 README
 sexualized
 socio
 SparkMax
+Sponsorships
 steelboot
 Steelboot
 TalonSRX
@@ -45,4 +48,3 @@ WRRF
 www
 yaml
 yml
-Sponsorships
