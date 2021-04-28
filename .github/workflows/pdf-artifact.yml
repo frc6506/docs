@@ -10,6 +10,6 @@ jobs:
       - run: sudo apt-get install texlive-fonts-recommended
       - run: sudo apt-get install texlive-fonts-extra
       - run: sudo apt-get install texlive-latex-extra
-      - uses: docker://pandoc/core:2.9
+      - uses: docker://pandoc/latex
         with:
           args: "--from=gfm --to=pdf " # gets appended to pandoc command #useing long form to clarify args #use --output= for file
