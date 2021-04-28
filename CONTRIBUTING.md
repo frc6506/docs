@@ -35,8 +35,10 @@ Also checkout the VS Code extension [Markdown Preview Enhanced](https://marketpl
 
 [Rules List](https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md})
 
-### Ignored Rules
+### Ignored Rules - and Current Implementation
 
+MD013 - The line length is ignored.  It is recommend you enable word wrap.
+MD028 - Two separate block quotes may now be placed next to each other.
 MD029 - Numbered lists may either use all 1s as number place holders or actually number the lists in order.
 MD033 - Inline HTML is currently permitted, but please avoid using it too much.
 

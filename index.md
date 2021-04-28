@@ -16,7 +16,7 @@
 
 ## Introduction FRC Coding in Java
 
-[Programming Quick Start Guide](quickStart/programingQuickStart)
+[Programming Quick Setup Guide](quickStart/programingQuickStart)
 
 - [Signing up for GitHub](quickStart/setupGitHub)
 - [GitHub Desktop setup](quickStart/setupGitHubDesktop)
