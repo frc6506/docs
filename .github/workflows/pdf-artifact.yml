@@ -6,10 +6,6 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      - run: sudo apt-get install texlive-latex-base
-      - run: sudo apt-get install texlive-fonts-recommended
-      - run: sudo apt-get install texlive-fonts-extra
-      - run: sudo apt-get install texlive-latex-extra
       - uses: docker://pandoc/latex
         with:
           args: "--from=gfm --to=pdf " # gets appended to pandoc command #useing long form to clarify args #use --output= for file
