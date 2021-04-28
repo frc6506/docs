@@ -12,6 +12,6 @@ jobs:
             --from=gfm
             --to=pdf
             --standalone
-            --table-of-contents"
+            --table-of-contents
             *.md
             **.*.md
