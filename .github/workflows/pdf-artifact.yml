@@ -1,4 +1,4 @@
-name: Simple Usage of Pandoc
+name: PDF with Pandoc
 
 on: push
 
@@ -6,12 +6,22 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      - uses: docker://pandoc/latex
+      - uses: actions/checkout@v2
+      - run: |
+          mkdir output  # create output dir
+          # this will also include README.md
+          echo "::set-env name=FILELIST::$(printf '"%s" ' *.md)"
+      - uses: docker://pandoc/latex:2.9
         with:
           args: >-  # allows you to break string into multiple lines # gets appended to pandoc command #useing long form to clarify args #use --output= for file
             --from=gfm
             --to=pdf
             --standalone
             --table-of-contents
-            *.md
-            **.*.md
+            #*.md
+            #**.*.md
+            --output=output/result.pdf ${{ env.FILELIST }}
+      - uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
