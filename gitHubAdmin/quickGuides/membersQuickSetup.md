@@ -31,7 +31,7 @@ Now that people are part of the GitHub organization, they still needed to be add
 ![CORE Team - Members tab](teamsMembersTab.png)
 3. Once your on the teams home/profile page, click on the `Members` tab.
 4. Click on `Add a member`
-![Teams - Add members dialog](teamsAddMembersDialog.png)
+    ![Teams - Add members dialog](teamsAddMembersDialog.png)
 5. Type the GitHub user name or the email address the person used to sign up for GitHub into the search box.  Then select them when the show up.  Then click `Invite`.!
 6. Repeat steps 4 through 5 as necessary to add everyone to the team.
 
