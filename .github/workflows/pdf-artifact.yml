@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: docker://pandoc/core:2.9
         with:
-          args: "--help" # gets appended to pandoc command
+          args: "--from=gfm --to=pdf " # gets appended to pandoc command #useing long form to clarify args #use --output= for file
