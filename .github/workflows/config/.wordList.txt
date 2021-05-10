@@ -24,9 +24,11 @@ markdownlint
 md
 MXP
 NavX
+OmniMount
 orgs
 py
 README
+roboRIO
 sexualized
 socio
 SparkMax
