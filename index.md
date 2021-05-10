@@ -91,6 +91,7 @@
 ## Hardware
 
 [Status Lights](hardware/statusLights)
+
 [USB Cable Identification Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
 
 ## How to contribute and Information about GitHub pages
