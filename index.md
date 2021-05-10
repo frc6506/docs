@@ -88,7 +88,9 @@
 
 [Vision](https://wpilib.screenstepslive.com/s/currentCS/m/vision)
 
-## Cables and Stuff
+## Hardware
+
+[Status Lights](hardware/statusLights)
 
 [USB Cable Identification Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
 
@@ -101,4 +103,4 @@
 [About GitHub Administration](gitHubAdmin/overview)
 
 <br>
-_Updated 20210415T1810 PDT_
+_Updated 20210510T1600 PDT_

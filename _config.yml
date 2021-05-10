@@ -13,6 +13,7 @@ include:
   - gitHubAdmin/repositories.md
   - gitHubAdmin/settings.md
   - gitHubAdmin/teams.md
+  - hardware/statusLights.md
   - quickStart/codingWorkflow.md
   - quickStart/gitHubDesktopTut.md
   - quickStart/programingQuickStart.md
