@@ -1,6 +1,6 @@
 # Hardware Status Lights
 
-> The [official WPLib docs](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html) include most components, such as the RSL, roboRIO, OpenMesh Radio, PDP, VRM, PCM, and motor controllers such as teh Talon SRX, Victor SPX, Spark-Max, Spark.
+> The [official WPLib docs](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html) include most components, such as the robot safety light (RSL), roboRIO, OpenMesh Radio, power distributution panel (PDP), voltage regulator module (VRM), pneumatic control module (PCM), and motor controllers such as the Talon SRX, Victor SPX, Spark-Max, and the Spark.
 
 [Official Documentation](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html)
 
