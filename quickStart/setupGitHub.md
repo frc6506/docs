@@ -4,7 +4,7 @@ This tutorial will walk you through the steps of creating a GitHub Account
 
 ## Account
 
-1. Create an account at [GitHub (github.com/join)](https://github.com/join) (and post the user name here).
+1. Create an account at [GitHub (github.com/join)](https://github.com/join) (and post your user name in the [programming](https://shsrobotics6506.slack.com/archives/CCF7E9P1B) channel on Slack).
    > It is recommended that you use your school email in order to get perks.
 2. You can now login with your GitHub credentials
 
