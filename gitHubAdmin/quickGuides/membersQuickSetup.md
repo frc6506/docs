@@ -27,7 +27,7 @@ Now that people are part of the GitHub organization, they still needed to be add
 
 1. Navigate to [github.com/orgs/frc6506/teams](https://github.com/orgs/frc6506/teams) in a browser, either directly or by clicking on `Teams` tab.
 2. Click on the team you want to edit to go to that team's home/profile page.  For example, the `CORE` team should contain all of the current programmers.  Here is a diagram of the available teams:
-![f](../orgManagement/teamsOrgChart.svg)
+![Team Org Chart](../orgManagement/teamsOrgChart.svg)
 ![CORE Team - Members tab](teamsMembersTab.png)
 3. Once your on the teams home/profile page, click on the `Members` tab.
 4. Click on `Add a member`
@@ -35,8 +35,17 @@ Now that people are part of the GitHub organization, they still needed to be add
 5. Type the GitHub user name or the email address the person used to sign up for GitHub into the search box.  Then select them when the show up.  Then click `Invite`.!
 6. Repeat steps 4 through 5 as necessary to add everyone to the team.
 
+## Related /docs Articles
+
+[Teams tab](../teams)
+[Cleaning up organizational teams](../orgManagement/teamCleanup)
+
+## Further Reading
+
+[Official GitHub Docs - Adding organization members to a team](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team)
+
 <br>
 [Admin Overview](https://frc6506.github.io/docs/gitHubAdmin/overview)
 [Site Index](https://frc6506.github.io/docs/index)
 <br>
-_Updated 20210427_
+_Updated 2021515T1730 PDT_
