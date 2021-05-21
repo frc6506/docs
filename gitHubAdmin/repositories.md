@@ -4,6 +4,12 @@ This serves as our organizations homepage and lists the different repositories o
 
 ![Organization Repositories tab](gitHubOrgHomePage.png)
 
+## Notes
+
+- The pinned repository section can be used to show off relevant and cool projects.
+
+## Repository Settings
+
 ## Related Guides
 
 [Creating a Repository quick start guide](quickGuides/repositoryQuickSetup)
@@ -12,4 +18,4 @@ This serves as our organizations homepage and lists the different repositories o
 [Admin Overview](https://frc6506.github.io/docs/gitHubAdmin/overview)
 [Site Index](https://frc6506.github.io/docs/index)
 <br>
-_Updated 20210515T1315 PDT_
+_Updated 20210515T1845 PDT_
