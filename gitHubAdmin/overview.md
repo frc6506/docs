@@ -54,6 +54,10 @@ This tab allows one to setup and manage GitHub organization-wide Kanban project 
 This tab allows one to manage GitHub organization-wide settings.
 See [settings](settings)
 
+## Further Reading
+
+[Official GitHub Docs - Organizations and teams](https://docs.github.com/en/organizations)
+
 <br>
 [Site Index](https://frc6506.github.io/docs/index)
 <br>
