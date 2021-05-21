@@ -66,6 +66,10 @@
 
 [WRRF Winter Workshops 2019/2020 Resources](https://drive.google.com/drive/folders/1X_pbfqYTbsEST7WvVTgKHzrvP11bg0pW)
 
+## Other GitHub Resources
+
+[Official GitHub Docs](https://docs.github.com/en)
+
 ## Advanced Coding, WPILib, Concepts
 
 [Robot Characterization](advanced/characterization.md)
@@ -103,4 +107,6 @@
 [About GitHub Administration](gitHubAdmin/overview)
 
 <br>
-_Updated 20210510T1600 PDT_
+
+_Updated 20210510T1630 PDT_
+

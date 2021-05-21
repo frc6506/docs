@@ -41,6 +41,7 @@ MD013 - The line length is ignored.  It is recommend you enable word wrap.
 MD028 - Two separate block quotes may now be placed next to each other.
 MD029 - Numbered lists may either use all 1s as number place holders or actually number the lists in order.
 MD033 - Inline HTML is currently permitted, but please avoid using it too much.
+MD036 - Allow top level text to be emphasized, even when not part of a paragraph.  Headings should still use the normal pound sign (`#`) designation, but this allows the italics updated on line to not be flagged.
 
 ## Compress Images
 
@@ -58,4 +59,5 @@ Nonprofits get free space, but the compress images action should be running anyw
 [Basic Overview of how this repository is setup](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 <br>
-_Updated 20210415T1905 PDT_
+
+_Updated 202100510T1700 PDT_
