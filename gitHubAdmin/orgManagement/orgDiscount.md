@@ -4,7 +4,7 @@ Although our team doesn't code enough to truly need it, the free upgrade to the 
 
 ## Verify Status of Nonprofit Discount
 
-1. Navigate to [Setings > Billing > Payment Information](https://github.com/organizations/frc6506/settings/billing/payment_information)
+1. Navigate to [Settings > Billing > Payment Information](https://github.com/organizations/frc6506/settings/billing/payment_information)
 2. Under `Coupon`, it should say "100% off forever".
 
 ## Further Reading
