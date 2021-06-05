@@ -12,6 +12,7 @@ Although our team doesn't code enough to truly need it, the free upgrade to the 
 [Official Docs - Discounts](https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/discounted-subscriptions-for-github-accounts)
 
 <br>
+[Org Maintenance Quick Guide](../quickGuides/orgMaintenanceGuide.md)
 [Admin Overview](https://frc6506.github.io/docs/gitHubAdmin/overview)
 [Site Index](https://frc6506.github.io/docs/index)
 <br>
