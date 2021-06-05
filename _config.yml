@@ -5,23 +5,26 @@ relative_links:
   collections: true
 include:
   - advanced/characterization.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - gitHubAdmin/orgManagement/orgDiscount.md
+  - gitHubAdmin/orgManagement/orgOwners.md
+  - gitHubAdmin/orgManagement/teamCleanup.md
+  - gitHubAdmin/overview.md
+  - gitHubAdmin/people.md
   - gitHubAdmin/quickGuides/membersQuickSetup.md
   - gitHubAdmin/quickGuides/orgMaintenanceGuide.md
   - gitHubAdmin/quickGuides/repositoryQuickSetup.md
-  - gitHubAdmin/overview.md
-  - gitHubAdmin/people.md
   - gitHubAdmin/repositories.md
   - gitHubAdmin/settings.md
   - gitHubAdmin/teams.md
   - hardware/statusLights.md
+  - index.md
   - quickStart/codingWorkflow.md
   - quickStart/gitHubDesktopTut.md
   - quickStart/programingQuickStart.md
   - quickStart/setupGitHub.md
   - quickStart/setupGitHubDesktop.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - index.md
   - README.md
   
 theme: jekyll-theme-slate

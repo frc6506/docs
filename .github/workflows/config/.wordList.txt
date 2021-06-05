@@ -8,6 +8,7 @@ CTRE
 declutter
 drivetrain
 Drivetrain
+dropdown
 exe
 faq
 frc
@@ -31,6 +32,7 @@ PCM
 PDP
 py
 README
+reverified
 roboRIO
 RSL
 sexualized

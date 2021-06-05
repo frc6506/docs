@@ -2,7 +2,7 @@
 
 This guide will explain how to create an official team repository and share it with the programming team.
 
-## Initial Creation
+## Initial Creation (Required)
 
 ![Organization Repositories tab](gitHubOrgHomePage-QuickSetupAnnotation.png)
 
@@ -21,7 +21,7 @@ This guide will explain how to create an official team repository and share it w
 1. Feel free to ignore the `Choose a license` button, however if you do selected it, FIRST prefers the BSD-3-clause license.
 1. Click `Create repository`
 
-## Initial Setup (Optional Part)
+## Initial Setup (Optional)
 
 Turn off things you don't need/won't use in `Settings` > `Options`.  These are designed for if you plan on allot of outside people using and working on your project:
 
@@ -29,7 +29,7 @@ Turn off things you don't need/won't use in `Settings` > `Options`.  These are d
 - `Sponsorships` (off by default)
 - `Discussions`  (off by default)
 
-## Initial Setup (Necessary Part)
+## Initial Setup (Required)
 
 Now that you have a repository, you need to prepare it for use by the programming team.
    > Note that this tutorial assumes one is adding an entire organizational team to the repository instead of adding everyone individually.  You can also use these instructions to add other people who are not part of a team quickly, although the `Invite teams or people` button may move around.
@@ -52,4 +52,4 @@ You can now clone the repository to your computers and use it to manage files an
 [Admin Overview](https://frc6506.github.io/docs/gitHubAdmin/overview)
 [Site Index](https://frc6506.github.io/docs/index)
 <br>
-_Updated 20210416T1509 PDT_
+_Updated 20210515T1330 PDT_
