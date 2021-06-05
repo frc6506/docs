@@ -6,7 +6,7 @@ This is where one can add people to the GitHub organization.
 
 Also see the [Add Members](quickGuides/membersQuickSetup) quick start guide.
 
-## Related Guides
+## Related Quick Guides
 
 [Adding members quick start guide](quickGuides/membersQuickSetup)
 
