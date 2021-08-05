@@ -12,7 +12,9 @@
 
 [Codecademy](https://www.codecademy.com/learn/learn-java)
 
-[Helsinki MOOC (Massively Open Online Course)](http://moocfi.github.io/courses/2013/programming-part-1/)
+[University of Helsinki Java MOOC (Massively Open Online Course)](https://java-programming.mooc.fi/)
+
+[Legacy Helsinki MOOC](http://moocfi.github.io/courses/2013/programming-part-1/)
 
 ## Introduction FRC Coding in Java
 
