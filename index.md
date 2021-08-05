@@ -2,21 +2,28 @@
 
 ## Welcome to frc6506/docs
 
+Hello, and welcome to the general documentation site for the Steelboot programing team!  This is index contains some links that may be useful.
+
 [Repository README](https://github.com/frc6506/docs/blob/master/README.md)
 
 [Team GitHub](https://github.com/orgs/frc6506)
 
 ## Basic Java
 
+Start here if you are new to Java!
+
 [WPILIB New to Programming Resources](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/intro.html)
 
 [Codecademy](https://www.codecademy.com/learn/learn-java)
 
-[University of Helsinki Java MOOC (Massively Open Online Course)](https://java-programming.mooc.fi/)
+[University of Helsinki MOOC (Massively Open Online Course)](https://java-programming.mooc.fi/)
+> Note: As part of  "Java Programing I: Part 1", one must follow the provided installation guide.
 
 [Legacy Helsinki MOOC](http://moocfi.github.io/courses/2013/programming-part-1/)
 
-## Introduction FRC Coding in Java
+## Introduction to `git` and GitHub
+
+This section includes information about GitHub
 
 [Programming Quick Setup Guide](quickStart/programingQuickStart)
 
@@ -28,7 +35,13 @@
 
 - [GitHub Presentation (Covers most stuff here)](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
 
+## Introduction to FRC Coding in Java
+
+Additional tutorials Coming Soon!
+
 ## FRC Coding Resources
+
+Assorted WPLib-j resources.
 
 [WPILib](https://docs.wpilib.org/en/latest/)
 
@@ -40,9 +53,7 @@
 
 [Tomb of secrets - Slack Login Required](https://shsrobotics6506.slack.com/files/UCH5CQTCG/FFWC5E8BV/tome_of_secrets.pdf)
 
-### WPILib-J Coding Resources
-
-[WPILibj GitHub](https://github.com/wpilibsuite/allwpilib/tree/master/wpilibj/src/main/java/edu/wpi/first/wpilibj)
+[WPILibj GitHub](https://github.com/wpilibsuite/allwpilib)
 
 ### Command Based Resources
 
@@ -110,5 +121,5 @@
 
 <br>
 
-_Updated 20210510T1630 PDT_
+_Updated 20210804T1830 PDT_
 
