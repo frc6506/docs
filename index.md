@@ -53,7 +53,7 @@ Assorted WPLib-j resources.
 
 [List of Official Installers](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
 
-[Tomb of secrets - Slack Login Required](https://shsrobotics6506.slack.com/files/UCH5CQTCG/FFWC5E8BV/tome_of_secrets.pdf)
+[Tomb of secrets - PDF - Legacy](../docs/Tome%20of%20Secrets.pdf)
 
 [WPILibj GitHub](https://github.com/wpilibsuite/allwpilib)
 
@@ -68,6 +68,8 @@ Assorted WPLib-j resources.
 ### SparkMax Coding Resources
 
 [SparkMax examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
+
+[SparkMax - Java Documentation - API reference - PDF - (Legacy)](../docs/SPARK-MAX-Java-API-Offline.pdf)
 
 ### Other Coding Resources
 
@@ -101,7 +103,7 @@ Assorted WPLib-j resources.
 
 [Limelight Docs](https://docs.limelightvision.io/en/latest/getting_started.html#imaging)
 
-[Limelight Docs - PDF  - Slack Login Required](https://shsrobotics6506.slack.com/archives/CCF7E9P1B/p1579015832000100)
+[Limelight Docs - PDF - Release 1.0 - 2019](../docs/limelight%20stuff.pdf)
 
 [Vision Control](https://www.team254.com/documents/vision-control/)
 
@@ -123,5 +125,5 @@ Assorted WPLib-j resources.
 
 <br>
 
-_Updated 20210804T1830 PDT_
+_Updated 20210804T1875 PDT_
 
