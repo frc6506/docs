@@ -2,7 +2,7 @@
 
 ## Welcome to frc6506/docs
 
-Hello, and welcome to the general documentation site for the Steelboot programing team!  This is index contains some links that may be useful.
+Hello, and welcome to the general documentation site for the Steelboot programming team!  This is index contains some links that may be useful.
 
 [Repository README](https://github.com/frc6506/docs/blob/master/README.md)
 
@@ -19,7 +19,7 @@ Start here if you are new to Java!
 [Codecademy](https://www.codecademy.com/learn/learn-java)
 
 [University of Helsinki MOOC (Massively Open Online Course)](https://java-programming.mooc.fi/)
-> NOTE: As part of  "Java Programing I: Part 1", one must follow the provided installation guide.
+> NOTE: As part of  "Java Programming I: Part 1", one must follow the provided installation guide.
 
 [Legacy Helsinki MOOC](http://moocfi.github.io/courses/2013/programming-part-1/)
 
