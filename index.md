@@ -14,10 +14,12 @@ Start here if you are new to Java!
 
 [WPILIB New to Programming Resources](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/intro.html)
 
+> REMINDER: Look at the _Java_ portion of the website.
+
 [Codecademy](https://www.codecademy.com/learn/learn-java)
 
 [University of Helsinki MOOC (Massively Open Online Course)](https://java-programming.mooc.fi/)
-> Note: As part of  "Java Programing I: Part 1", one must follow the provided installation guide.
+> NOTE: As part of  "Java Programing I: Part 1", one must follow the provided installation guide.
 
 [Legacy Helsinki MOOC](http://moocfi.github.io/courses/2013/programming-part-1/)
 
