@@ -2,19 +2,30 @@
 
 ## Welcome to frc6506/docs
 
+Hello, and welcome to the general documentation site for the Steelboot programming team!  This is index contains some links that may be useful.
+
 [Repository README](https://github.com/frc6506/docs/blob/master/README.md)
 
 [Team GitHub](https://github.com/orgs/frc6506)
 
 ## Basic Java
 
+Start here if you are new to Java!
+
 [WPILIB New to Programming Resources](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/intro.html)
+
+> REMINDER: Look at the _Java_ portion of the website.
 
 [Codecademy](https://www.codecademy.com/learn/learn-java)
 
-[Helsinki MOOC (Massively Open Online Course)](http://moocfi.github.io/courses/2013/programming-part-1/)
+[University of Helsinki MOOC (Massively Open Online Course)](https://java-programming.mooc.fi/)
+> NOTE: As part of  "Java Programming I: Part 1", one must follow the provided installation guide.
 
-## Introduction FRC Coding in Java
+[Legacy Helsinki MOOC](http://moocfi.github.io/courses/2013/programming-part-1/)
+
+## Introduction to `git` and GitHub
+
+This section includes information about GitHub
 
 [Programming Quick Setup Guide](quickStart/programingQuickStart)
 
@@ -26,7 +37,13 @@
 
 - [GitHub Presentation (Covers most stuff here)](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
 
+## Introduction to FRC Coding in Java
+
+Additional tutorials Coming Soon!
+
 ## FRC Coding Resources
+
+Assorted WPLib-j resources.
 
 [WPILib](https://docs.wpilib.org/en/latest/)
 
@@ -36,11 +53,9 @@
 
 [List of Official Installers](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
 
-[Tomb of secrets - Slack Login Required](https://shsrobotics6506.slack.com/files/UCH5CQTCG/FFWC5E8BV/tome_of_secrets.pdf)
+[Tomb of secrets - PDF - Legacy](../docs/Tome%20of%20Secrets.pdf)
 
-### WPILib-J Coding Resources
-
-[WPILibj GitHub](https://github.com/wpilibsuite/allwpilib/tree/master/wpilibj/src/main/java/edu/wpi/first/wpilibj)
+[WPILibj GitHub](https://github.com/wpilibsuite/allwpilib)
 
 ### Command Based Resources
 
@@ -53,6 +68,8 @@
 ### SparkMax Coding Resources
 
 [SparkMax examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
+
+[SparkMax - Java Documentation - API reference - PDF - (Legacy)](../docs/SPARK-MAX-Java-API-Offline.pdf)
 
 ### Other Coding Resources
 
@@ -86,7 +103,7 @@
 
 [Limelight Docs](https://docs.limelightvision.io/en/latest/getting_started.html#imaging)
 
-[Limelight Docs - PDF  - Slack Login Required](https://shsrobotics6506.slack.com/archives/CCF7E9P1B/p1579015832000100)
+[Limelight Docs - PDF - Release 1.0 - 2019](../docs/limelight%20stuff.pdf)
 
 [Vision Control](https://www.team254.com/documents/vision-control/)
 
@@ -108,5 +125,5 @@
 
 <br>
 
-_Updated 20210510T1630 PDT_
+_Updated 20210804T1875 PDT_
 
