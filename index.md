@@ -23,12 +23,15 @@ Start here if you are new to Java!
 
 [Legacy Helsinki MOOC](http://moocfi.github.io/courses/2013/programming-part-1/)
 
+## Rquired Software for FRC
+
+[Programming Quick Setup Guide](quickStart/programingQuickStart)
+
 ## Introduction to `git` and GitHub
 
 This section includes information about GitHub
 
-[Programming Quick Setup Guide](quickStart/programingQuickStart)
-
+(Linked from [Programming Quick Setup Guide](quickStart/programingQuickStart))
 - [Signing up for GitHub](quickStart/setupGitHub)
 - [GitHub Desktop setup](quickStart/setupGitHubDesktop)
 - [GitHub Desktop Guide](quickStart/gitHubDesktopTut)
@@ -37,7 +40,18 @@ This section includes information about GitHub
 
 - [GitHub Presentation (Covers most stuff here)](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
 
+[WPILib - Git Introduction](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
+
+[GitHub - Git Introduction]()
+
 ## Introduction to FRC Coding in Java
+
+[Basic Test Robot Code example](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-benchtop-test-program-cpp-java.html)
+
+[2021 Robot Code Rewrite](https://github.com/frc6506/Practice-Project)
+ - [2020 Robot Code base](https://github.com/frc6506/FRC-RobotCode-2020)
+
+[Skelator Code - Timed Robot Drivetrain](https://github.com/frc6506/SkeletorCode)
 
 Additional tutorials Coming Soon!
 
@@ -45,7 +59,7 @@ Additional tutorials Coming Soon!
 
 Assorted WPLib-j resources.
 
-[WPILib](https://docs.wpilib.org/en/latest/)
+[WPILib Docs](https://docs.wpilib.org/en/latest/)
 
 [Old WPILBJ Docs Site](https://wpilib.screenstepslive.com/s/currentCS/m/kop)
 
@@ -56,6 +70,12 @@ Assorted WPLib-j resources.
 [Tomb of secrets - PDF - Legacy](../docs/Tome%20of%20Secrets.pdf)
 
 [WPILibj GitHub](https://github.com/wpilibsuite/allwpilib)
+
+[WPLIB Software Tools Overview](https://docs.wpilib.org/en/stable/docs/controls-overviews/control-system-software.html)
+
+[WPLIBj Javadoc](https://first.wpi.edu/wpilib/allwpilib/docs/release/java/)
+
+[VS Code Overview](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/index.html)
 
 ### Command Based Resources
 
@@ -82,6 +102,12 @@ Assorted WPLib-j resources.
 [Rev Robotics Color Sensor v3 Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples/tree/master/Java)
 
 [WRRF Winter Workshops 2019/2020 Resources](https://drive.google.com/drive/folders/1X_pbfqYTbsEST7WvVTgKHzrvP11bg0pW)
+
+[WPLib Addiotnal Resources](https://docs.wpilib.org/en/stable/docs/software/support/support-resources.html)
+
+[FRC Glossary](https://docs.wpilib.org/en/stable/docs/software/frc-glossary.html)
+
+[Driver Station](https://docs.wpilib.org/en/stable/docs/software/driverstation/index.html)
 
 ## Other GitHub Resources
 
@@ -125,5 +151,5 @@ Assorted WPLib-j resources.
 
 <br>
 
-_Updated 20210804T1875 PDT_
+_Updated 20210816T1615 PDT_
 
