@@ -31,11 +31,14 @@ This section includes information about GitHub
 
 - [Signing up for GitHub](quickStart/setupGitHub)
 - [GitHub Desktop setup](quickStart/setupGitHubDesktop)
+- [JDK and VSCode setup - For basic Javas](detailedSetup/genericVSCodeSetup)
 - [GitHub Desktop Guide](quickStart/gitHubDesktopTut)
 
 - [Workflow Explanation](quickStart/codingWorkflow)
 
 - [GitHub Presentation (Covers most stuff here)](https://docs.google.com/presentation/d/e/2PACX-1vRZlrW9X5Tn2a9EdpZ2iVTtD4TPZJUqQlTI4D0ThXZwhgwMI8DkeJMmreyRZ4Eh2ZlNa5eA1I8kLV7d/pub?start=false&loop=false&delayms=3000)
+
+[Official GitHub Classroom Introduction to git](Documents/TheBasicsOfGitHub)
 
 ## Introduction to FRC Coding in Java
 
@@ -125,5 +128,4 @@ Assorted WPLib-j resources.
 
 <br>
 
-_Updated 20210804T1875 PDT_
-
+_Updated 20210909T1745 PDT_

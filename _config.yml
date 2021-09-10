@@ -7,6 +7,8 @@ include:
   - advanced/characterization.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - detailedSetup/genericVSCodeSetup.md
+  - Documents/TheBasicsOfGitHub.md
   - gitHubAdmin/orgManagement/orgDiscount.md
   - gitHubAdmin/orgManagement/orgOwners.md
   - gitHubAdmin/orgManagement/teamCleanup.md
@@ -22,6 +24,7 @@ include:
   - index.md
   - quickStart/codingWorkflow.md
   - quickStart/gitHubDesktopTut.md
+  - quickStart/introToGit.md
   - quickStart/programingQuickStart.md
   - quickStart/setupGitHub.md
   - quickStart/setupGitHubDesktop.md

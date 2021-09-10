@@ -11,10 +11,11 @@ This tutorial will walk you through the installation of GitHub Desktop on your m
 
 ## Next
 
-[Navigating the GitHub Desktop Interface](gitHubDesktopTut)
+[Installing the JDK and generic VSCode](../detailedSetup/genericVSCodeSetup)
+[What is `git`?](introToGit)
 
 <br>
 [Index](https://frc6506.github.io/docs/index)
 
 <br>
-_Updated 20210415T2100 PDT_
+_Updated 20210909T1745 PDT_
