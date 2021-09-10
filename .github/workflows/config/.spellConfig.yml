@@ -7,8 +7,9 @@ matrix:
     - .github/workflows/config/.wordList.txt
     encoding: utf-8
   pipeline:
-  - pyspelling.filters.markdown: Null
-  - pyspelling.filters.html: comments: false
+  - pyspelling.filters.markdown:
+  - pyspelling.filters.html:
+    comments: false
     ignores:
     - code
     - pre
