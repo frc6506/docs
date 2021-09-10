@@ -1,6 +1,6 @@
 # JDK and Visual Studio Code Setup
 
-This tutorial will walk you through the installation of the Java Development, Kit (JDK) and Visual STudio Code (VSCode) on your machine.
+This tutorial will walk you through the installation of the Java Development, Kit (JDK) and Visual Studio Code (VSCode) on your machine.
 
 > The generic version of VSCode is only used for learning basic Java.  It is recommended that you use FRC VSCode for FRC development.
 
