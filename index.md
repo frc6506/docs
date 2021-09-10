@@ -56,7 +56,7 @@ Assorted WPLib-j resources.
 
 [List of Official Installers](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
 
-[Tomb of secrets - PDF - Legacy](../docs/Tome%20of%20Secrets.pdf)
+[Tomb of secrets - PDF - Legacy](../docs/Documents/Tome%20of%20Secrets.pdf)
 
 [WPILibj GitHub](https://github.com/wpilibsuite/allwpilib)
 
@@ -72,7 +72,7 @@ Assorted WPLib-j resources.
 
 [SparkMax examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
 
-[SparkMax - Java Documentation - API reference - PDF - (Legacy)](../docs/SPARK-MAX-Java-API-Offline.pdf)
+[SparkMax - Java Documentation - API reference - PDF - (Legacy)](../docs/Documents/SPARK-MAX-Java-API-Offline.pdf)
 
 ### Other Coding Resources
 
@@ -102,11 +102,11 @@ Assorted WPLib-j resources.
 
 [Advanced Introduction to Vision Processing- Important Concepts, Manual Programming, Calculus](https://media.readthedocs.org/pdf/frc-pdr/latest/frc-pdr.pdf)
 
-[Vision Processing with Grip](https://firstinspires-shanghai.org/guide/technical-guide/Vision_Processing.pdf)
+[Vision Processing with Grip](https://firstinspires-shanghai.org/guide/technical-guide/Documents/Vision_Processing.pdf)
 
 [Limelight Docs](https://docs.limelightvision.io/en/latest/getting_started.html#imaging)
 
-[Limelight Docs - PDF - Release 1.0 - 2019](../docs/limelight%20stuff.pdf)
+[Limelight Docs - PDF - Release 1.0 - 2019](../docs/Documents/limelight%20stuff.pdf)
 
 [Vision Control](https://www.team254.com/documents/vision-control/)
 
