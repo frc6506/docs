@@ -22,7 +22,7 @@ This tutorial will walk you through the installation of the Java Development, Ki
 
 1. Open VSCode
 
-2. Press [Crtl] + [Shift] + [P] on Windows to open the command pallet, or [Command] + [Shift] + [P] on Mac.
+2. Press [Ctrl] + [Shift] + [P] on Windows to open the command pallet, or [Command] + [Shift] + [P] on Mac.
 
 3. Begin typing "configure Java Runtime".  When "Java: configure Java Runtime" pops up, select it.
 

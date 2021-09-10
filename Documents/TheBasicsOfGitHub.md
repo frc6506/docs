@@ -47,7 +47,7 @@ To learn more about branching, read ["About Branches"](https://docs.github.com/e
 
 ### Forks
 
-A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
+A fork is another way to copy a repository, but is usually used when you want to contribute to someone else's project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
 To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
 ### Pull requests
