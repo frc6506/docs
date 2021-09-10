@@ -49,7 +49,7 @@ This tutorial will walk you through the installation of the Java Development, Ki
 
 ## Installing VSCode Extensions
 
-> Although some repositories will include configuration files that will prompt you to install these, go ahead and install them nwo.
+> Although some repositories will include configuration files that will prompt you to install these, go ahead and install them now.
 
 > Related reading: [Official VSCode Docs - Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-marketplace).  This may help if you are having trouble in this section.
 

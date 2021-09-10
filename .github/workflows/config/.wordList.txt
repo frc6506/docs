@@ -2,15 +2,16 @@ allwpilib
 AppData
 CMD
 Codecademy
+codespaces
 Codespaces
 config
-Crtl
 CTRE
 Ctrl
 declutter
 drivetrain
 Drivetrain
 dropdown
+else’s
 else’s
 exe
 faq
