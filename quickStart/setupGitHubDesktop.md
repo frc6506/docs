@@ -12,6 +12,7 @@ This tutorial will walk you through the installation of GitHub Desktop on your m
 ## Next
 
 [Installing the JDK and generic VSCode](../detailedSetup/genericVSCodeSetup)
+
 [What is `git`?](introToGit)
 
 <br>
