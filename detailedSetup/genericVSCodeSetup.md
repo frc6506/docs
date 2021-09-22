@@ -82,4 +82,4 @@ This tutorial will walk you through the installation of the Java Development, Ki
 [Index](https://frc6506.github.io/docs/index)
 
 <br>
-_Updated 20210909T1845 PDT_
+_Updated 20210921T1915 PDT_
