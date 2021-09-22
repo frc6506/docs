@@ -6,7 +6,7 @@ This tutorial will walk you through the installation of the Java Development, Ki
 
 > You must be able to install programs on your computer locally to complete this tutorial.  VSCode is compatible with the school's VM, but using GitHub codespaces will be easier to setup.
 
-## Recommended EMethod - Coding Pack for Java
+## Recommended Method - Coding Pack for Java
 
 1. Navigate to [code.visualstudio.com](https://code.visualstudio.com/) and go to [Docs > Java > Getting Started](https://code.visualstudio.com/docs/java/java-tutorial)
 1. Click "Install the Coding Pack for Java..."
