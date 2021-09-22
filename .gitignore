@@ -2,3 +2,5 @@ gitHubAdmin/quickGuides/repositoryQuickSetup.pdf
 !limelight stuff.pdf
 !SPARK-MAX-Java-API-Offline.pdf
 !Tome of Secrets.pdf
+/build/*
+*.html

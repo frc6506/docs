@@ -4,9 +4,20 @@ This tutorial will walk you through the installation of the Java Development, Ki
 
 > The generic version of VSCode is only used for learning basic Java.  It is recommended that you use FRC VSCode for FRC development.
 
-> You must be able to install programs on your computer to complete this tutorial.  It is not possible to install the JDK in the school's VM at this time or on the school's Chromebooks.  VSCode is compatible with the school's VM, but using GitHub codespaces will be easier to setup.
+> You must be able to install programs on your computer locally to complete this tutorial.  VSCode is compatible with the school's VM, but using GitHub codespaces will be easier to setup.
 
-## Installing VSCode
+## Recommended Method - Coding Pack for Java
+
+1. Navigate to [code.visualstudio.com](https://code.visualstudio.com/) and go to [Docs > Java > Getting Started](https://code.visualstudio.com/docs/java/java-tutorial)
+1. Click "Install the Coding Pack for Java..."
+1. Save the file
+1. Run the file and follow the prompts to install a local copy of the JDK, VSCode, and the required VSCode extensions.
+
+## Alternative Method - Component by Component
+
+> You must be able to install programs on your computer to complete this method.  It is not possible to install the generic JDK on the school's VM at this time or on the school's Chromebooks.  VSCode is compatible with the school's VM, but using GitHub codespaces will be easier to setup.
+
+### Installing VSCode
 
 1. Navigate to [code.visualstudio.com](https://code.visualstudio.com/).
 
@@ -16,7 +27,7 @@ This tutorial will walk you through the installation of the Java Development, Ki
 1. Run the installer.
     >   (Windows only) On the "Select Additionally Task Page, I would recommend selecting the two 'Add "Open with Code" action to Windows Explorer...'.
 
-## Installing the JDK
+### Installing the JDK
 
 > You must have administrator access to perform this step.
 
@@ -47,7 +58,7 @@ This tutorial will walk you through the installation of the Java Development, Ki
     - Setting the JDK\_HOME and/or JAVA\_HOME environment variables with the JDK's directory.
         > This is for Windows only.
 
-## Installing VSCode Extensions
+### Installing VSCode Extensions
 
 > Although some repositories will include configuration files that will prompt you to install these, go ahead and install them now.
 
@@ -71,4 +82,4 @@ This tutorial will walk you through the installation of the Java Development, Ki
 [Index](https://frc6506.github.io/docs/index)
 
 <br>
-_Updated 20210909T1845 PDT_
+_Updated 20210921T1915 PDT_
