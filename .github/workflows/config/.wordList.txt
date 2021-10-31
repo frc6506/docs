@@ -1,9 +1,11 @@
 allwpilib
+APCSA
 AppData
 CMD
 Codecademy
 codespaces
 Codespaces
+Codewars
 config
 CTRE
 Ctrl
@@ -11,9 +13,9 @@ declutter
 drivetrain
 Drivetrain
 dropdown
-else’s
-else's
 else
+else's
+else’s
 exe
 faq
 frc
@@ -25,6 +27,7 @@ gitignore
 gmail
 html
 https
+Javacademy
 JDK
 JDK's
 JDKs
@@ -58,6 +61,7 @@ SRX
 steelboot
 Steelboot
 TalonSRX
+Trayford
 txt
 UI
 USERPROFILE
