@@ -15,7 +15,7 @@ Start here if you are new to Java!
 [WPILIB New to Programming Resources](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/intro.html)
 > REMINDER: Look at the _Java_ portion of the website.
 
-[Learn Programing by doing](https://programmingbydoing.com/)
+[Learn Programming by doing](https://programmingbydoing.com/)
 
 [Coding BAT](https://codingbat.com/java)
 
@@ -56,7 +56,7 @@ Ms. Trayford's lectures from her class may also be useful.
 
 ##### Breaker Bots (FRC #5104) Javacademy Tutorials
 
-> A few years ago (2019), the Breaker bots from Pacific Grove ran a summer workshop series.  These links have been retrieved from emails and the last version (no longer live) of their summer lesson webpage, the source of which can be found [here](https://github.com/BreakerBots/Breakersite/blob/c7b93221ee02210e65e9ac10582f90ee2ebe21aa/src/pages/summer_lessons.html).
+> A few years ago (2019), the Breaker bots from Pacific Grove ran a summer workshop series.  These links have been retrieved from emails and the last version (no longer live) of their summer lesson web page, the source of which can be found [here](https://github.com/BreakerBots/Breakersite/blob/c7b93221ee02210e65e9ac10582f90ee2ebe21aa/src/pages/summer_lessons.html).
 
 [(Deprecated) Breaker Bots (FRC #5104) - Javacademy Week 1](https://docs.google.com/presentation/d/1ek36GlI8aiDOuYtB3BftqrIr-H69X6U3gikNIL-Mg4w/edit?usp=sharing)
 
