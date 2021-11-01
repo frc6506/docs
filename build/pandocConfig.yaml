@@ -1,0 +1,41 @@
+from: gfm
+to: pdf
+
+metadata-file: metaData.yaml
+
+output-file: FRC6506docs.pdf
+input-files:
+  - ../index.md
+  - ../README.md
+  - ../CONTRIBUTING.md
+  - ../CODE_OF_CONDUCT.md
+  - ../quickStart/programingQuickStart.md
+  - ../quickStart/setupGitHub.md
+  - ../quickStart/setupGitHubDesktop.md
+  - ../detailedSetup/genericVSCodeSetup.md
+  - ../quickStart/gitHubDesktopTut.md
+  - ../quickStart/codingWorkflow.md
+  - ../advanced/characterization.md
+  - ../gitHubAdmin/quickGuides/membersQuickSetup.md
+  - ../gitHubAdmin/quickGuides/orgMaintenanceGuide.md
+  - ../gitHubAdmin/quickGuides/repositoryQuickSetup.md
+  - ../gitHubAdmin/overview.md
+  - ../gitHubAdmin/people.md
+  - ../gitHubAdmin/repositories.md
+  - ../gitHubAdmin/settings.md
+  - ../gitHubAdmin/teams.md
+  - ../gitHubAdmin/orgManagement/orgDiscount.md
+  - ../gitHubAdmin/orgManagement/orgOwners.md
+  - ../gitHubAdmin/orgManagement/teamCleanup.md
+  - ../LICENSE.txt
+
+resource-path:
+  - ../
+  - ../quickStart/
+  - ../gitHubAdmin/
+  - ../gitHubAdmin/orgManagement/
+  - ../gitHubAdmin/quickGuides/
+
+table-of-contents: true
+
+include-in-header: chapterBreak.tex
