@@ -3,6 +3,7 @@ APCSA
 AppData
 CMD
 Codecademy
+CodeHS
 codespaces
 Codespaces
 Codewars
@@ -28,6 +29,8 @@ gmail
 html
 https
 Javacademy
+Javadoc
+JavaDoc
 JDK
 JDK's
 JDKs
@@ -35,6 +38,7 @@ Kanban
 linter
 markdownlint
 md
+Multiline
 MXP
 NavX
 octocat
@@ -45,6 +49,9 @@ orgs
 PCM
 PDP
 PID
+pre
+println
+programiz
 py
 README
 README's
@@ -61,10 +68,13 @@ SPX
 SRX
 steelboot
 Steelboot
+substring
 TalonSRX
 Trayford
+Trayford's
 txt
 UI
+Unicode
 USERPROFILE
 VCS
 VictorSPX
@@ -88,6 +98,3 @@ WRRF
 www
 yaml
 yml
-programiz
-CodeHS
-Trayford's

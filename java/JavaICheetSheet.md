@@ -34,7 +34,7 @@ comment text
 </tr>
 
 <tr>
-<td>Multiline JavaDoc</td>
+<td>Multiline Javadoc</td>
 <td>
 
 ```Java
@@ -49,9 +49,9 @@ comment text
 
 </table>
 
-### Table of JavaDoc tags
+### Table of Javadoc tags
 
-[Oracle Docs - JavDoc info](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)
+[Oracle Docs - Javadoc info](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)
 
 [Complete list](https://www.tutorialspoint.com/java/java_documentation.htm)
 
@@ -85,7 +85,7 @@ int i = 0;
 | Use | Symbol/ Keyword | Explanation |
 |---|---|---|
 | integer | `int` | Holds a 32-bit integer.  There are also other primitives that can hold integers (`byte`, `short`, and  `long`). |
-| character | `char` | Can hold 1 unicode character.  Can be treated as a special int |
+| character | `char` | Can hold 1 Unicode character.  Can be treated as a special int |
 | decimal | `double` | Holds a double precision floating point number, which a way to store a decimal.  There are also one other primitives that can hold decimals (`float`). |
 | boolean | `boolean` | Holds a boolean value (`true` OR `false`) |
 | no return | `void` | In a method declaration, a return type of `void` means that nothing will be returned. |
@@ -99,7 +99,7 @@ int i = 0;
 | Name | Example | Explanation|
 |---|---|---|
 | Parentheses | `(A)` | A is in parentheses |
-| Multiplication | `A * B` | A multiped by B. |
+| Multiplication | `A * B` | A multiplied by B. |
 | Division | `A / B` | A divided by B. |
 | Addition | `A + B` | A plus B. |
 | Subtraction | `A - B` | A minus B. |
@@ -150,7 +150,7 @@ System.out.println(helloString);
 
 ## Print Statements
 
-[JavaDoc for `System.out`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html#out)
+[Javadoc for `System.out`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html#out)
 
 ```Java
 // Print something out
