@@ -1,6 +1,8 @@
 allwpilib
 APCSA
 AppData
+BobSaidHi
+boolean
 CMD
 Codecademy
 CodeHS
@@ -26,6 +28,8 @@ gifs
 github
 gitignore
 gmail
+helloArray
+helloString
 html
 https
 Javacademy
