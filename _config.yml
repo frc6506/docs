@@ -22,6 +22,7 @@ include:
   - gitHubAdmin/teams.md
   - hardware/statusLights.md
   - index.md
+  - legacyTutorials.md
   - quickStart/codingWorkflow.md
   - quickStart/gitHubDesktopTut.md
   - quickStart/introToGit.md
