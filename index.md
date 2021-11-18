@@ -44,7 +44,7 @@ Ms. Trayford's lectures from her class may also be useful.
 [2021-22 Basic Java I GitHub Classroom Assignment Invite](https://classroom.github.com/a/TYpIZLPz)
 2021 Basic Java II - Coming soon
 
-[2021-22 Basic Java Cheat Sheet / Reference](/java/JavaCheetSheet)
+[2021-22 Basic Java Cheat Sheet / Reference](/java/JavaCheatSheet)
 
 [Legacy Tutorials](legacyTutorials)
 
