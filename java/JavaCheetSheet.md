@@ -146,7 +146,7 @@ System.out.println(intArray.length);
 
 In this example, brackets are added after the variable type to create an array.  The `new int[size]` syntax is used to declare the size of the array and initialize it so that it can be used.
 
-The brackets with the number after the varaible name are used to indicate the index number of the spot in teh array oen wants to access.
+The brackets with the number after the variable name are used to indicate the index number of the spot in the array oen wants to access.
 
 In addition, arrays have a readable `.length` field/ property, which will return their size.
 
@@ -165,7 +165,7 @@ System.out.println(intArray[0].length);
 
 Here the second print statement is printing out the length of the array stored in index 0 of the first array.
 
-> There is also a class called `ArrayList`, which provides more versatile datastore.
+> There is also a class called `ArrayList`, which provides more versatile way of data storage.
 
 [Interesting Reading](https://www.willamette.edu/~gorr/classes/cs231/lectures/chapter9/arrays2d.htm)
 
@@ -202,7 +202,7 @@ Also, `+=`, `-=`, `*=`, and `/=` allow one to perform an an operation on a varia
 | Square Root |
 | Random Number |
 
-> Code Hs random number nte
+> Code Hs random number class
 
 ## Strings (Fancy Variables (Objects))
 
@@ -367,11 +367,11 @@ for(int i = 0; i < 10; i++) {
 }
 ```
 
-> There is also an alterative form of `for` loop for use in specific circumstances.
+> There is also an alternative form of `for` loop for use in specific circumstances.
 
-Additionally, the statement `break;`  can be used to exit a loop at any time and the statement `continue;` can be used to skip to the next iteration nof the loop.
+Additionally, the statement `break;`  can be used to exit a loop at any time and the statement `continue;` can be used to skip to the next iteration of the loop.
 
-## Error Catagories
+## Error Categories
 
 - A compile time error is a problem such as a syntax error or missing file reference that prevents the program from successfully compiling.
 - A runtime error is a program error that occurs while the program is running. One example is a logic error, which produces the wrong output.
