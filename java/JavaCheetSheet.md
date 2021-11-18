@@ -154,7 +154,7 @@ In addition, arrays have a readable `.length` field/ property, which will return
 
 It is also possible to put arrays within arrays, creating a multi-dimensional array.  This can be accomplished by adding more brackets.
 
-For example, a 5x5 2D array would be work like so:
+For example, a 5x5 2D array would work like so:
 
 ```Java
 int[][] intArray = new int[5][5];
