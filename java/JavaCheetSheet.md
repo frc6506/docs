@@ -1,5 +1,11 @@
 # Basic Java Cheat Sheet
 
+## Resocures
+
+Team GitHub:    [github.com/frc6506](https://www.github.com/frc6506)
+
+Team Docs:    [frc6506.github.io/docs/](https://frc6506.github.io/docs/); [github.com/frc6506/docs](https://www.github.com/frc6506/docs)
+
 ## Comments
 
 <table>
@@ -92,6 +98,8 @@ int i = 0;
 
 > Note: Arrays are indicated with brackets.
 
+> Also, please note that Java may automatically truncate some things.  For instance, `int i = 5 / 2;` yields `i = 2`, discarding the `.5` because an integer cannot hold a fractional (decimal) component.  Instead, one of the number must be made into a `double` (a `float` should also work), eg: `double d = 5.0 /2;` which yields `d = 2.5`
+
 ## Math Operations
 
 [Order of operations](https://introcs.cs.princeton.edu/java/11precedence/)
@@ -121,8 +129,13 @@ Also, `+=`, `-=`, `*=`, and `/=` allow one to perform an an operation on a varia
 | Name | Symbol | Explanation|
 |---|---|---|
 | Exponents | `Math.pow(base, exponent)` | Import the `Math` class by typing `import java.lang.Math`, then...
+| Absolute Vlaue |
+| Sqaure Root |
+| Random Number |
 
-## Strings (Fancy Variables)
+> Code Hs random number nte
+
+## Strings (Fancy Variables (Objects))
 
 A `String` is a special type of variable, because it is actually an object that is implemented as a `char` array.  The first character will receive an index of `0`.  When you write one, using double quotes, that is called a String literal.  [More info](https://docs.oracle.com/javase/tutorial/java/data/strings.html)
 
@@ -147,6 +160,8 @@ System.out.println(helloString);
 | `String substring(int from)` | Returns `substring(from, length())` |
 | `int indexOf(String str)` | Returns the index of the first occurrence of `str`; returns `-1` if not found |
 | `int compareTo(String other)` | Returns a value `<0` if this is less than `other`; returns `0` if `this` is equal to `other`; returns a value `>0` if `this` is greater than `other` |
+
+### Type Casting
 
 ## Print Statements
 
@@ -179,3 +194,17 @@ System.out.println("Five as a number is: " + 5);
 | `\"` | Allows the use of double quotes in a String |
 | `\'` | Allows the use of a single quot in a char |
 | `\\` | Allows the use of a backslash in text
+
+## 
+
+## Boolean Logical and Comparion Operators
+
+## Control Sturcures - Conditnal Statements
+
+## Control Strucures - Loops
+
+## Error Catagoires
+
+## Methods
+
+## Class and OOP
