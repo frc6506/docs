@@ -146,7 +146,7 @@ System.out.println(intArray.length);
 
 In this example, brackets are added after the variable type to create an array.  The `new int[size]` syntax is used to declare the size of the array and initialize it so that it can be used.
 
-The brackets with the number after the variable name are used to indicate the index number of the spot in the array oen wants to access.
+The brackets with the number after the variable name are used to indicate the index number of the spot in the array one wants to access.
 
 In addition, arrays have a readable `.length` field/ property, which will return their size.
 
@@ -202,7 +202,7 @@ Also, `+=`, `-=`, `*=`, and `/=` allow one to perform an an operation on a varia
 | Square Root |
 | Random Number |
 
-> Code Hs random number class
+> CodeHS random number class
 
 ## Strings (Fancy Variables (Objects))
 
@@ -396,7 +396,7 @@ public static final int add(int a, int b) {
 
 ```
 
-> The modifiers discussed in teh next few paragraphs can also be used with variables.
+> The modifiers discussed in the next few paragraphs can also be used with variables.
 
 In this example, the method is `public`, which is the greatest available access scope in Java.  Setting a method to `private` will cause it to only be accessible from within the same class (file).
 
