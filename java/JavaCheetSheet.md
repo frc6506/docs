@@ -165,7 +165,7 @@ System.out.println(intArray[0].length);
 
 Here the second print statement is printing out the length of the array stored in index 0 of the first array.
 
-> There is also a class called `ArrayList`, which provides more versatile way of data storage.
+> There is also a class called `ArrayList`, which provides a more versatile way of data storage.
 
 [Interesting Reading](https://www.willamette.edu/~gorr/classes/cs231/lectures/chapter9/arrays2d.htm)
 
