@@ -37,12 +37,14 @@ Ms. Trayford's lectures from her class may also be useful.
 
 ### Workshops
 
-[2021-22 Basic Java I Presentation](https://docs.google.com/presentation/d/1G8lPsCMdCD5UUtULYZikc-CkbdTs-ctIWDhwW3vbsME/edit?usp=sharing)
+[2021-22 Basic Java Presentation](https://docs.google.com/presentation/d/1G8lPsCMdCD5UUtULYZikc-CkbdTs-ctIWDhwW3vbsME/edit?usp=sharing)
 
 [2021-22 Basic Java I Repository Template](https://github.com/BobSaidHi/Basic-Java-1)
 
 [2021-22 Basic Java I GitHub Classroom Assignment Invite](https://classroom.github.com/a/TYpIZLPz)
 2021 Basic Java II - Coming soon
+
+[2021-22 Basic Java Cheat Sheet / Reference](/java/JavaCheetSheet)
 
 [Legacy Tutorials](legacyTutorials)
 
