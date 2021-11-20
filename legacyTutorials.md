@@ -32,7 +32,7 @@
 
 <br>
 
-[(Deprecated) Breaker Bots (FRC #5104) - Week 4 - Cheat Sheet & Projects 1 & 2](https://docs.google.com/document/d/1q7zudOTuQefEMARWO5JlAKtnoUETJOpDzlKEpGZYNRM/edit?usp=sharing)
+[(Deprecated) Breaker Bots (FRC #5104) - Week 4 - Projects 1 & 2](https://docs.google.com/document/d/1q7zudOTuQefEMARWO5JlAKtnoUETJOpDzlKEpGZYNRM/edit?usp=sharing)
 
 <br>
 
@@ -54,10 +54,10 @@
 
 <br>
 
-[(Deprecated) Breaker Bots (FRC #5104) - Javacademy Week 8 - Cheat Sheet 2)](https://docs.google.com/presentation/d/1N-bDwqEA3dgI9k0X4MwQWSnehP-PS33TcUhUvoRmipU/edit?usp=sharing)
+[(Deprecated) Breaker Bots (FRC #5104) - Javacademy Week 8 - Cheat Sheet and project guidelines)]([x](https://docs.google.com/document/d/1ffFE-n5bfB9gGoUlC7i5dLOinzE_vzIFv1rUE7gIh1A/edit?usp=sharing))
 
 [(Deprecated) Breaker Bots (FRC #5104) - Javacademy Exercises - Set 3)](https://docs.google.com/document/d/1xfW6f3-dt7i5oFtpXvCNwyq5msHTBfX6VFE_XgYP5qI/edit?usp=sharing)
 
 <br>
 
-_Updated 20211103T2245 PDT_
+_Updated 20211120T1515 PDT_
