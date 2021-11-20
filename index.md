@@ -44,6 +44,8 @@ Ms. Trayford's lectures from her class may also be useful.
 [2021-22 Basic Java I GitHub Classroom Assignment Invite](https://classroom.github.com/a/TYpIZLPz)
 2021 Basic Java II - Coming soon
 
+[2021-22 Basic Java II Presentation](https://docs.google.com/presentation/d/1UcChjVyu24qT5LnW6PPPCol2liEzF7B-PrKnyPXqvmI/edit?usp=sharing)
+
 [2021-22 Basic Java Cheat Sheet / Reference](java/JavaCheatSheet)
 
 [Legacy Tutorials](legacyTutorials)
@@ -149,6 +151,8 @@ Assorted WPLib-j resources.
 
 ## Hardware
 
+[2021 Basic Robot Systems / Parts Presentation](https://docs.google.com/presentation/d/1joiTcO2N6MHsm-2dKu-NvyD5gvLhubu6JbAO0TwRWlQ/edit?usp=sharing)
+
 [Status Lights](hardware/statusLights)
 
 [USB Cable Identification Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
@@ -163,4 +167,4 @@ Assorted WPLib-j resources.
 
 <br>
 
-_Updated 20211103T2245 PDT_
+_Updated 20211120T1530 PDT_
