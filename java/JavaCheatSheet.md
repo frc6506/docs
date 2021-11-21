@@ -285,6 +285,8 @@ System.out.println((double) 3 / 2);
 
 Booleans can hold the values `true` and `false`.
 
+> Noe about the logical OR operator:  The operator for OR in Java is `||`, eg: `A || B`.  This may be incorrectly displayed below do to a conflict with the markdown table symbol `|`.  It appears that the markdown conversation VSCode extension requires an escape character (`\`), while GitHub pages does not.
+
 | Operation | Example | Explanation |
 |---|---|---|
 | NOT | `!A` | Opposite of A |
