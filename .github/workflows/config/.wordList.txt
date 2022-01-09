@@ -66,6 +66,8 @@ README
 README's
 repo
 reverified
+REVLib
+revrobotics
 roboRIO
 RSL
 runtime

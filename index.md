@@ -81,15 +81,13 @@ Additional tutorials Coming Soon!
 
 ## FRC Coding Resources
 
-Assorted WPLib-j resources.
+Assorted WPLib-j and FRC programming resources.
+
+### General Resources
 
 [WPILib](https://docs.wpilib.org/en/latest/)
 
 [Old WPILBJ Docs Site](https://wpilib.screenstepslive.com/s/currentCS/m/kop)
-
-[WPILIB Releases](https://github.com/wpilibsuite/allwpilib/releases)
-
-[List of Official Installers](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
 
 [Tomb of secrets - PDF - Legacy](../docs/Documents/Tome%20of%20Secrets.pdf)
 
@@ -99,25 +97,73 @@ Assorted WPLib-j resources.
 
 [Structure](https://github.com/BadRobots1014/BadRobot2013/wiki/Command-Based-Structure)
 
-### CTRE-Vex Phoenix Resources (Phoenix, TalonSRX, VictorSPX)
+### FRC & WPILib Software Downloads
 
-[Phoenix Releases](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases)
+[List of Official Installers](https://docs.wpilib.org/en/stable/docs/getting-started/getting-started-frc-control-system/offline-installation-preparations.html)
 
-### SparkMax Coding Resources
+> - The FRC Game tools includes the Driver Station software (control robot) and the RoboRIO Imaging Tool (Update / flash NI RoboRIO)
+> - The Radio Configuration Utility is used to update / flash the radio and reset it for non-competition use.
+> - The WPILib Installer install FRC VSCode.
+
+[WPILIB Releases](https://github.com/wpilibsuite/allwpilib/releases)
+
+[Explanation about Third Party (Vendor) Libraries](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html#rd-party-libraries)
+
+> Note that the following libraries should be included with WPILib, but here are their online install URLs.
+
+WPILib old command library online vendor file URL: `https://raw.githubusercontent.com/wpilibsuite/allwpilib/main/wpilibOldCommands/WPILibOldCommands.json`
+
+WPILib new command library online vendor file URL: `https://raw.githubusercontent.com/wpilibsuite/allwpilib/main/wpilibNewCommands/WPILibNewCommands.json`
+
+### Third party / Vendor Libraries, firmware, and examples
+
+[Explanation about Third Party (Vendor) Libraries](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html#rd-party-libraries)
+
+#### CTRE / Phoenix (Phoenix, TalonSRX, VictorSPX)
+
+[CTRE Downloads Page](https://store.ctr-electronics.com/software/)
+
+[CTRE Phoenix Framework Installer Releases](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/)
+
+#### Rev Robotics (Spark MAX, 2020-21 Color Sensor)
 
 [SparkMax examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
 
+[Rev Robotics Color Sensor v3](http://www.revrobotics.com/rev-31-1557/)
+
+[REV Hardware Client](https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client)
+
+[Spark MAX Firmware](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-firmware-change-log)
+
+> "Beginning with 2022, The SPARK MAX API and the Color Sensor V3 API have been merged into a unified library called REVLib." -- [docs.revrobotics.com](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information)
+
+[REVLib Information](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#labview)
+
+[REVLib Javadoc](https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html)
+
+REVLib online vendor file URL: `https://software-metadata.revrobotics.com/REVLib.json`
+
+##### Legacy/ Deprecated Rev Libraries, firmware, and examples
+
+> "Beginning with 2022, The SPARK MAX API and the Color Sensor V3 API have been merged into a unified library called REVLib." -- [docs.revrobotics.com](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information)
+
 [SparkMax - Java Documentation - API reference - PDF - (Legacy)](../docs/Documents/SPARK-MAX-Java-API-Offline.pdf)
 
-### Other Coding Resources
+[Rev Robotics Color Sensor v3 Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples/tree/master/Java)
+
+#### Kauai Labs (NavX-MXP)
 
 [NavX-MXP Software](https://pdocs.kauailabs.com/navx-mxp/software/)
 
-[NavX-MXP Libraries](https://www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip)
+[NavX-MXP Library Direct Download Link](https://www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip)
 
-[Rev Robotics Color Sensor v3](http://www.revrobotics.com/rev-31-1557/)
+[NavX-MXP Library Downloads Page](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/)
 
-[Rev Robotics Color Sensor v3 Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples/tree/master/Java)
+NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/frc/2021/navx_frc.json`
+
+> Note: It appears that this link is for 2021, but it works still if you replace "2021" with "2022", so one could assume the URL format is `https://www.kauailabs.com/dist/frc/<year>/navx_frc.json`.  At the time of writing the possible 2022 file shows the version number as "4.0.442".
+
+### Other Resources
 
 [WRRF Winter Workshops 2019/2020 Resources](https://drive.google.com/drive/folders/1X_pbfqYTbsEST7WvVTgKHzrvP11bg0pW)
 
@@ -167,4 +213,4 @@ Assorted WPLib-j resources.
 
 <br>
 
-_Updated 20211120T1530 PDT_
+_Updated 20220108T1615 PDT_
