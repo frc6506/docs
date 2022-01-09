@@ -137,7 +137,7 @@ WPILib new command library online vendor file URL: `https://raw.githubuserconten
 
 > "Beginning with 2022, The SPARK MAX API and the Color Sensor V3 API have been merged into a unified library called REVLib." -- [docs.revrobotics.com](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information)
 
-[RevLib Information](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#labview)
+[REVLib Information](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#labview)
 
 [REVLib Javadoc](https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html)
 
