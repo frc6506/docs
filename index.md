@@ -139,9 +139,9 @@ WPILib new command library online vendor file URL: `https://raw.githubuserconten
 
 [RevLib Information](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#labview)
 
-[RevLib Javadoc](https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html)
+[REVLib Javadoc](https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html)
 
-RevLib online vendor file URL: `https://software-metadata.revrobotics.com/REVLib.json`
+REVLib online vendor file URL: `https://software-metadata.revrobotics.com/REVLib.json`
 
 ##### Legacy/ Deprecated Rev Libraries, firmware, and examples
 
