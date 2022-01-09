@@ -159,6 +159,10 @@ REVLib online vendor file URL: `https://software-metadata.revrobotics.com/REVLib
 
 [NavX-MXP Library Downloads Page](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/)
 
+NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/frc/2021/navx_frc.json`
+
+> Note: It appears that this link is for 2021, but it works still if you replace "2021" with "2022", so one could assume the URL format is `https://www.kauailabs.com/dist/frc/<year>/navx_frc.json`.  At the time of writing the possible 2022 file shows the version number as "4.0.442".
+
 ### Other Resources
 
 [WRRF Winter Workshops 2019/2020 Resources](https://drive.google.com/drive/folders/1X_pbfqYTbsEST7WvVTgKHzrvP11bg0pW)
