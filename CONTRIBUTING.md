@@ -29,7 +29,7 @@ The word white list is located at `.github/workflows/config/.wordList.txt`.  Ple
 [![Markdown Linter](https://github.com/frc6506/docs/actions/workflows/markdownwonLinter.yml/badge.svg)](https://github.com/frc6506/docs/actions/workflows/markdownwonLinter.yml)
 An automatic markdown linter inspects the all markdown files.  You can use the VS Code extension [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) to help you out in VS Code.
 
-Also checkout the VS Code extension [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) for live preview in VS Code.
+Also checkout the VS Code extension [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) for a live preview in VS Code.
 
 ### Rules
 
@@ -51,6 +51,8 @@ Nonprofits get free space, but the compress images action should be running anyw
 [Site Index](https://frc6506.github.io/docs/index)
 
 ## Generic Information of about GitHub Pages
+
+> A derivative of this  file is also used at [frc6506.github.io](https://github.com/frc6506/frc6506.github.io/blob/main/CONTRIBUTING.md)
 
 [Basic Overview of what GitHub pages is](https://pages.github.com/)
 
