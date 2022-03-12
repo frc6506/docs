@@ -1,9 +1,12 @@
 allwpilib
 APCSA
 AppData
+avtodev
+BobinMathew
 BobSaidHi
 boolean
 Booleans
+calibreapp
 CMD
 Codecademy
 CodeHS
@@ -13,7 +16,9 @@ Codewars
 config
 CTRE
 Ctrl
+CTZxVULKAN
 declutter
+dependabot
 drivetrain
 Drivetrain
 dropdown
@@ -49,8 +54,11 @@ Multiline
 MXP
 myMethod
 NavX
+Nickin
+Nickin's
 octocat
 OmniMount
+Onshape
 OOP
 OpenJDK
 OpenMesh
@@ -69,6 +77,7 @@ reverified
 REVLib
 revrobotics
 roboRIO
+rojopolis
 RSL
 runtime
 Runtime

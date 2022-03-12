@@ -58,6 +58,24 @@
 
 [(Deprecated) Breaker Bots (FRC #5104) - Javacademy Exercises - Set 3)](https://docs.google.com/document/d/1xfW6f3-dt7i5oFtpXvCNwyq5msHTBfX6VFE_XgYP5qI/edit?usp=sharing)
 
+## 2020 Capital City Classic Virtual Workshops - Original YouTube Steams
+
+[Fall Workshops Blue Stream - 11/15 PM](https://www.youtube.com/watch?v=LxRAHrFCu8Q&list=PLDLrPAn-atUC3Gbj6utGEG3hvQcV3yT2C&index=1)
+
+[Fall Workshops Red Stream - 11/15 PM](https://www.youtube.com/watch?v=AeZBGvLpuK8&list=PLDLrPAn-atUC3Gbj6utGEG3hvQcV3yT2C&index=2)
+
+[Fall Workshops Blue Stream - 11/15 AM](https://www.youtube.com/watch?v=KCDoxXeB3_4&list=PLDLrPAn-atUC3Gbj6utGEG3hvQcV3yT2C&index=3)
+
+[Fall Workshops Red Stream - 11/15 AM](https://www.youtube.com/watch?v=oqud8E4zPg0&list=PLDLrPAn-atUC3Gbj6utGEG3hvQcV3yT2C&index=4)
+
+[Fall Workshops Blue Stream - 11/14 PM](https://www.youtube.com/watch?v=MJGcgcoNYoo&list=PLDLrPAn-atUC3Gbj6utGEG3hvQcV3yT2C&index=5 )
+
+[Fall Workshops Red Stream - 11/14 PM](https://www.youtube.com/watch?v=kGlztGiq5Mw&list=PLDLrPAn-atUC3Gbj6utGEG3hvQcV3yT2C&index=6 )
+
+[Fall Workshops Red Stream - 11/14 AM](https://www.youtube.com/watch?v=kGlztGiq5Mw&list=PLDLrPAn-atUC3Gbj6utGEG3hvQcV3yT2C&index=7)
+
+[Fall Workshops Blue Stream - 11/14 AM](https://www.youtube.com/watch?v=yiVsuRbRjAw&list=PLDLrPAn-atUC3Gbj6utGEG3hvQcV3yT2C&index=8)
+
 <br>
 
-_Updated 20211120T1515 PDT_
+_Updated 202203121515 PDT_
