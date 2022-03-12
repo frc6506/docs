@@ -91,6 +91,8 @@ Assorted WPLib-j and FRC programming resources.
 
 [Tomb of secrets - PDF - Legacy](../docs/Documents/Tome%20of%20Secrets.pdf)
 
+[WPILib-j JavaDoc/ API Reference](https://first.wpi.edu/wpilib/allwpilib/docs/release/java/index.html)
+
 [WPILibj GitHub](https://github.com/wpilibsuite/allwpilib)
 
 ### Command Based Resources
