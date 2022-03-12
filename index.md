@@ -201,6 +201,8 @@ NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/f
 
 [2021 Basic Robot Systems / Parts Presentation](https://docs.google.com/presentation/d/1joiTcO2N6MHsm-2dKu-NvyD5gvLhubu6JbAO0TwRWlQ/edit?usp=sharing)
 
+[FRC Control System General Layout Diagram](https://docs.wpilib.org/en/stable/_images/frc-control-system-layout.svg)
+
 [Status Lights](hardware/statusLights)
 
 [USB Cable Identification Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
