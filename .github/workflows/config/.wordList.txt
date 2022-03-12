@@ -49,8 +49,11 @@ Multiline
 MXP
 myMethod
 NavX
+Nickin
+Nickin's
 octocat
 OmniMount
+Onshape
 OOP
 OpenJDK
 OpenMesh

@@ -6,7 +6,7 @@ Hello, and welcome to the general documentation site for the Steelboot programmi
 
 [Repository README](https://github.com/frc6506/docs/blob/master/README.md)
 
-[Team GitHub](https://github.com/orgs/frc6506)
+[Team GitHub](https://github.com/frc6506)
 
 ## Basic Java
 
@@ -37,7 +37,7 @@ Ms. Trayford's lectures from her class may also be useful.
 
 ### Workshops
 
-[2021-22 Basic Java Presentation](https://docs.google.com/presentation/d/1G8lPsCMdCD5UUtULYZikc-CkbdTs-ctIWDhwW3vbsME/edit?usp=sharing)
+[2021-22 Basic Java I Presentation](https://docs.google.com/presentation/d/1G8lPsCMdCD5UUtULYZikc-CkbdTs-ctIWDhwW3vbsME/edit?usp=sharing)
 
 [2021-22 Basic Java I Repository Template](https://github.com/BobSaidHi/Basic-Java-1)
 
@@ -46,7 +46,7 @@ Ms. Trayford's lectures from her class may also be useful.
 
 [2021-22 Basic Java II Presentation](https://docs.google.com/presentation/d/1UcChjVyu24qT5LnW6PPPCol2liEzF7B-PrKnyPXqvmI/edit?usp=sharing)
 
-[2021-22 Basic Java Cheat Sheet / Reference](java/JavaCheatSheet)
+[2021-22 Basic Java Cheat Sheet / Reference](java/JavaCheatSheet) [For PDF version, see release assets](https://github.com/frc6506/docs/releases)
 
 [Legacy Tutorials](legacyTutorials)
 
@@ -85,7 +85,7 @@ Assorted WPLib-j and FRC programming resources.
 
 ### General Resources
 
-[WPILib](https://docs.wpilib.org/en/latest/)
+[WPILib](https://docs.wpilib.org/en/stable/)
 
 [Old WPILBJ Docs Site](https://wpilib.screenstepslive.com/s/currentCS/m/kop)
 
@@ -169,6 +169,16 @@ NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/f
 
 [WRRF Winter Workshops 2019/2020 Resources](https://drive.google.com/drive/folders/1X_pbfqYTbsEST7WvVTgKHzrvP11bg0pW)
 
+[WRRF Workshops Archive](https://sites.google.com/site/wrrffilesandpages/workshops)
+
+[Citrus Circuits Fall Workshops Archive](https://www.citruscircuits.org/fallworkshops.html)
+
+[2020 Capital City Classic Virtual Workshops](https://www.citruscircuits.org/2020-fall-workshops.html)
+
+[Introduction to Onshape Slides](https://docs.google.com/presentation/d/1l9zlebyDmfjk-WPP3EnLmhi8BGj_qb00_28cX0-mrP0/edit?usp=sharing)
+
+[Nickin's (former team member) FRC videos playlist](https://www.youtube.com/playlist?list=PLNzbYHUmxul0HZYW3D0DFE-E1mWxuITrJ)
+
 ## Other GitHub Resources
 
 [Official GitHub Docs](https://docs.github.com/en)
@@ -199,7 +209,7 @@ NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/f
 
 ## Hardware
 
-[2021 Basic Robot Systems / Parts Presentation](https://docs.google.com/presentation/d/1joiTcO2N6MHsm-2dKu-NvyD5gvLhubu6JbAO0TwRWlQ/edit?usp=sharing)
+[2021 Basic Robot Systems / Parts / Mechanisms Presentation](https://docs.google.com/presentation/d/1joiTcO2N6MHsm-2dKu-NvyD5gvLhubu6JbAO0TwRWlQ/edit?usp=sharing)
 
 [FRC Control System General Layout Diagram](https://docs.wpilib.org/en/stable/_images/frc-control-system-layout.svg)
 
