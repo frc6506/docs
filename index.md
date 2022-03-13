@@ -217,6 +217,10 @@ NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/f
 
 [Status Lights](hardware/statusLights)
 
+[NI RoboRIO User Manual](https://www.ni.com/pdf/manuals/374474a.pdf)
+
+[NI RoboRIO Specs Document](https://www.ni.com/pdf/manuals/374661a.pdf)]
+
 [USB Cable Identification Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
 
 ## How to contribute and Information about GitHub pages
