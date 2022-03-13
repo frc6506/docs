@@ -75,6 +75,8 @@ The presentation covers most of the stuff here, but are slightly out of date.
 [2021-22 Git & GitHub Fundamentals by GitHub Classroom Template (Private to frc6506)](https://github.com/frc6506/github-starter-course)
 [2021-22 Git & GitHub Fundamentals by GitHub Classroom Assignment Invite](https://classroom.github.com/a/WBZYK0mO)
 
+[Git and GitHub Introduction) on MDN (Mozilla Developer)](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub)
+
 ## Introduction to FRC Coding in Java
 
 Additional tutorials Coming Soon!
