@@ -50,6 +50,7 @@ Kanban
 linter
 markdownlint
 md
+MDN
 Multiline
 MXP
 myMethod

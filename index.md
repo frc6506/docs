@@ -75,6 +75,8 @@ The presentation covers most of the stuff here, but are slightly out of date.
 [2021-22 Git & GitHub Fundamentals by GitHub Classroom Template (Private to frc6506)](https://github.com/frc6506/github-starter-course)
 [2021-22 Git & GitHub Fundamentals by GitHub Classroom Assignment Invite](https://classroom.github.com/a/WBZYK0mO)
 
+[Git and GitHub Introduction) on MDN (Mozilla Developer)](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub)
+
 ## Introduction to FRC Coding in Java
 
 Additional tutorials Coming Soon!
@@ -214,6 +216,10 @@ NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/f
 [FRC Control System General Layout Diagram](https://docs.wpilib.org/en/stable/_images/frc-control-system-layout.svg)
 
 [Status Lights](hardware/statusLights)
+
+[NI RoboRIO User Manual](https://www.ni.com/pdf/manuals/374474a.pdf)
+
+[NI RoboRIO Specs Document](https://www.ni.com/pdf/manuals/374661a.pdf)]
 
 [USB Cable Identification Chart](https://www.cablestogo.com/learning/connector-guides/usb#fuji)
 
