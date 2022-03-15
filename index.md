@@ -81,6 +81,8 @@ The presentation covers most of the stuff here, but are slightly out of date.
 
 Additional tutorials Coming Soon!
 
+[Deep Blue Robotics - Training](https://deep-blue-training.readthedocs.io/en/latest/)
+
 ## FRC Coding Resources
 
 Assorted WPLib-j and FRC programming resources.
@@ -203,7 +205,15 @@ NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/f
 
 [Limelight Docs](https://docs.limelightvision.io/en/latest/getting_started.html#imaging)
 
+[Limelight Docs - PDF (Not sure if offial)](https://readthedocs.org/projects/limelight/downloads/pdf/latest/)
+
 [Limelight Docs - PDF - Release 1.0 - 2019](../docs/Documents/limelight%20stuff.pdf)
+
+[Limelight Downloads Page](https://limelightvision.io/pages/downloads)
+
+[Limelight Getting Started Guide](https://docs.limelightvision.io/en/latest/getting_started.html)
+
+[Deep Blue Training - Introduction to Limelight](https://deep-blue-training.readthedocs.io/en/latest/section-7/limelight/)
 
 [Vision Control](https://www.team254.com/documents/vision-control/)
 
