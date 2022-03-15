@@ -205,7 +205,7 @@ NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/f
 
 [Limelight Docs](https://docs.limelightvision.io/en/latest/getting_started.html#imaging)
 
-[Limelight Docs - PDF (Not sure if offial)](https://readthedocs.org/projects/limelight/downloads/pdf/latest/)
+[Limelight Docs - PDF (Not sure if official)](https://readthedocs.org/projects/limelight/downloads/pdf/latest/)
 
 [Limelight Docs - PDF - Release 1.0 - 2019](../docs/Documents/limelight%20stuff.pdf)
 
