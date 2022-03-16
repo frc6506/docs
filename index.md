@@ -35,6 +35,27 @@ Ms. Trayford's lectures from her class may also be useful.
 
 [https://www.programiz.com/java-programming](https://www.programiz.com/java-programming)
 
+[Wikiversity Java Portal](https://en.wikiversity.org/wiki/Portal:Java)
+
+Text Tutorial Set 1 (from Wikiversity):
+
+- [Introduction to Programming in Java](https://en.wikiversity.org/wiki/Java_Programming)
+- [Learning Java](https://en.wikiversity.org/wiki/Learning_Java)
+- [Java Programming Tips](https://en.wikiversity.org/wiki/Learning_Java/Programming_tips)
+
+Alternate Text Tutorial (from Wikiversity):
+
+- [Java Tutorial](https://en.wikiversity.org/wiki/Java_Tutorial)
+
+Books (from Wikiversity):
+
+- [Free Java programming book](https://en.wikibooks.org/wiki/Java_Programming)
+
+Videos (from Wikiversity):
+
+- [TheNewBoston - Java Programming Tutorials (Video)](https://www.youtube.com/watch?v=Hl-zzrqQoSE)
+- [Derek Banas/ (NewThinkTank?)  - Java Video Tutorial](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
+
 ### Workshops
 
 [2021-22 Basic Java I Presentation](https://docs.google.com/presentation/d/1G8lPsCMdCD5UUtULYZikc-CkbdTs-ctIWDhwW3vbsME/edit?usp=sharing)
@@ -81,6 +102,8 @@ The presentation covers most of the stuff here, but are slightly out of date.
 
 Additional tutorials Coming Soon!
 
+[Deep Blue Robotics - Training](https://deep-blue-training.readthedocs.io/en/latest/)
+
 ## FRC Coding Resources
 
 Assorted WPLib-j and FRC programming resources.
@@ -125,9 +148,14 @@ WPILib new command library online vendor file URL: `https://raw.githubuserconten
 
 #### CTRE / Phoenix (Phoenix, TalonSRX, VictorSPX)
 
+[CTRE Phoenix Documentation](https://docs.ctre-phoenix.com/en/stable/)
+
 [CTRE Downloads Page](https://store.ctr-electronics.com/software/)
 
 [CTRE Phoenix Framework Installer Releases](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/)
+
+CTRE Phoenix library online vendor file URL:
+`https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix-frc2022-latest.json`
 
 #### Rev Robotics (Spark MAX, 2020-21 Color Sensor)
 
@@ -163,9 +191,9 @@ REVLib online vendor file URL: `https://software-metadata.revrobotics.com/REVLib
 
 [NavX-MXP Library Downloads Page](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/)
 
-NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/frc/2021/navx_frc.json`
+NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/frc/2022/navx_frc.json`
 
-> Note: It appears that this link is for 2021, but it works still if you replace "2021" with "2022", so one could assume the URL format is `https://www.kauailabs.com/dist/frc/<year>/navx_frc.json`.  At the time of writing the possible 2022 file shows the version number as "4.0.442".
+> Note: It appears the URL format is `https://www.kauailabs.com/dist/frc/<year>/navx_frc.json`.  At the time of writing the possible 2022 file shows the version number as "4.0.442".
 
 ### Other Resources
 
@@ -203,7 +231,15 @@ NavX online vendor file URL (2021 / v 4.0428): `https://www.kauailabs.com/dist/f
 
 [Limelight Docs](https://docs.limelightvision.io/en/latest/getting_started.html#imaging)
 
+[Limelight Docs - PDF (Not sure if official)](https://readthedocs.org/projects/limelight/downloads/pdf/latest/)
+
 [Limelight Docs - PDF - Release 1.0 - 2019](../docs/Documents/limelight%20stuff.pdf)
+
+[Limelight Downloads Page](https://limelightvision.io/pages/downloads)
+
+[Limelight Getting Started Guide](https://docs.limelightvision.io/en/latest/getting_started.html)
+
+[Deep Blue Training - Introduction to Limelight](https://deep-blue-training.readthedocs.io/en/latest/section-7/limelight/)
 
 [Vision Control](https://www.team254.com/documents/vision-control/)
 
