@@ -35,6 +35,27 @@ Ms. Trayford's lectures from her class may also be useful.
 
 [https://www.programiz.com/java-programming](https://www.programiz.com/java-programming)
 
+[Wikiversity Java Portal](https://en.wikiversity.org/wiki/Portal:Java)
+
+Text Tutorial Set 1 (from Wikiversity):
+
+- [Introduction to Programming in Java](https://en.wikiversity.org/wiki/Java_Programming)
+- [Learning Java](https://en.wikiversity.org/wiki/Learning_Java)
+- [Java Programming Tips](https://en.wikiversity.org/wiki/Learning_Java/Programming_tips)
+
+Alternate Text Tutorial (from Wikiversity):
+
+- [Java Tutorial](https://en.wikiversity.org/wiki/Java_Tutorial)
+
+Books (from Wikiversity):
+
+- [Free Java programming book](https://en.wikibooks.org/wiki/Java_Programming)
+
+Videos (from Wikiversity):
+
+- [TheNewBoston - Java Programming Tutorials (Video)](https://www.youtube.com/watch?v=Hl-zzrqQoSE)
+- [Derek Banas/ (NewThinkTank?)  - Java Video Tutorial](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
+
 ### Workshops
 
 [2021-22 Basic Java I Presentation](https://docs.google.com/presentation/d/1G8lPsCMdCD5UUtULYZikc-CkbdTs-ctIWDhwW3vbsME/edit?usp=sharing)

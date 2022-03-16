@@ -108,7 +108,9 @@ vscode
 VSCode
 VSCode's
 vsliveshare
+Banas
 weebly
+Wikiversity
 wordList
 WPILBJ
 wpilib
