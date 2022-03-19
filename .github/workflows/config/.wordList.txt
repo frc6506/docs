@@ -61,6 +61,7 @@ Multiline
 MXP
 myMethod
 NavX
+newtab
 NewThinkTank
 Nickin
 Nickin's

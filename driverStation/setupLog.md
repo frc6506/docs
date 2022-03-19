@@ -254,6 +254,86 @@ Was going to disable uploading, but it was grayed out
 
 - Un-hid some useful icons
 
+## Windows Security 2
+
+### App and browser control
+
+- Enabled potentially unwanted app blocking
+
+### Device security
+
+- Enabled memory integrity in core isolation
+
+## BIOS 2
+
+### Intel(R) Software Guard Extensions^TM
+
+- Set to Software controlled
+
+## Troubleshooting the TPM
+
+- Installed powershell help updates
+- I can't fix this but I also don't want to disable warnings, just click continue
+
+## Edge Settings
+
+I would install Firefox, but we really shouldn't use the ds for web browsing.  I also did not install any extensions.
+I did bookmark some useful websites (Like this one)
+
+### Profiles
+
+- Disabled Microsoft Rewards > Show Rewards in Microsoft Edge
+- Disabled Passwords > Offer to save passwords
+- Left Show alerts when passwords ar found in an online leak disabled
+- Disabled Payment info > Save and fill payment info
+
+### Privacy, search, and services
+
+- Disabled "Allow site to check if you have payment methods saved"
+- Left "Enhance your security on the web" disabled
+- Disabled "Save time and money with Shopping in Microsoft Edge"
+- Disabled "Show opportunities to support causes and nonprofits you care abut"
+- Switched Search Engine to Google
+- Switched Search on new tabs to address bar in order to use GOogle
+
+### Appearance
+
+- Set Show favorites bar to Always
+- Enabled Home Button
+- Enabled show downloads button
+- Left Collections button on
+
+### Start, home, and new tab
+
+- Set When Edge starts to open these pages: `https://frc65o6.github.io/docs/driverStation/driverStation` & `edge://newtab`
+- Set home button to frc65o6.github.io/docs/driverStation/driverStation
+
+### New tab page customization
+
+- Set to focus preset
+- Left it as 1 row quick shortcuts
+- Disabled promoted links
+- Disabled content
+  
+### Downloads
+
+- Left Ask me what to do with each file disabled
+  
+### Family
+
+- Set kids mode to 9-12 years old, although it's disabled
+
+### System and Performance
+
+- Disabled Microsoft Edge as startup item in task manger
+- Disabled startup boost
+- Left low battery economy mode disabled
+
+## Installed programs
+
+- Downloaded portable (no install) copy of HWInfo, extracted 64-bit version to Desktop/Utilities folder, added shortcut in start menu and pinned to start (via %appdata%/Microsoft/Windows/Star Menu/Programs)
+- Installed FRC Game Tools 2022 (using offline installer)), update Start Menu Pins, Desktop Icons, & taskbar pins
+
 <br>
 
 Authored by @BobSaidHi 3/2022
