@@ -332,7 +332,24 @@ I did bookmark some useful websites (Like this one)
 ## Installed programs
 
 - Downloaded portable (no install) copy of HWInfo, extracted 64-bit version to Desktop/Utilities folder, added shortcut in start menu and pinned to start (via %appdata%/Microsoft/Windows/Star Menu/Programs)
-- Installed FRC Game Tools 2022 (using offline installer)), update Start Menu Pins, Desktop Icons, & taskbar pins
+- Installed FRC Game Tools 2022 (using offline installer) (including disabling fast startup)), update Start Menu Pins, Desktop Icons, & taskbar pins, setup driver stations
+
+## Password
+
+- Removed account password again
+
+## Control Panel > Hardware and Sound
+
+### Power Options > System Settings > Edit Plaln Settigs
+
+- Dibbled USB Selective suspend as per [here](https://docs.wpilib.org/en/stable/docs/software/driverstation/driver-station-best-practices.html)
+- Left hibernate after 180 minutes on
+- Left turn off hard disk as after 10 mintus
+- Left crictal batteyr action as hbiernate
+
+## WPILib Tools
+
+- Installed WPILib tools to get shuffleboard and smart dashboard
 
 <br>
 
