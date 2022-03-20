@@ -100,6 +100,7 @@ SPX
 SRX
 steelboot
 Steelboot
+steelbootrobotics
 substring
 TalonSRX
 TheNewBoston
