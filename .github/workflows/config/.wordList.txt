@@ -1,5 +1,6 @@
 allwpilib
 APCSA
+appdata
 AppData
 avtodev
 Banas
@@ -25,9 +26,11 @@ CTZxVULKAN
 declutter
 dependabot
 DISM
+driverStation
 drivetrain
 Drivetrain
 dropdown
+ds
 eg
 else
 else's
@@ -77,6 +80,7 @@ orgs
 PCM
 PDP
 PID
+powershell
 pre
 println
 programiz
@@ -105,6 +109,7 @@ substring
 TalonSRX
 TheNewBoston
 touchpad
+TPM
 Trayford
 Trayford's
 txt

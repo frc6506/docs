@@ -284,7 +284,7 @@ I did bookmark some useful websites (Like this one)
 
 - Disabled Microsoft Rewards > Show Rewards in Microsoft Edge
 - Disabled Passwords > Offer to save passwords
-- Left Show alerts when passwords ar found in an online leak disabled
+- Left Show alerts when passwords are found in an online leak disabled
 - Disabled Payment info > Save and fill payment info
 
 ### Privacy, search, and services
@@ -294,7 +294,7 @@ I did bookmark some useful websites (Like this one)
 - Disabled "Save time and money with Shopping in Microsoft Edge"
 - Disabled "Show opportunities to support causes and nonprofits you care abut"
 - Switched Search Engine to Google
-- Switched Search on new tabs to address bar in order to use GOogle
+- Switched Search on new tabs to address bar in order to use Google
 
 ### Appearance
 
