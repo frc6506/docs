@@ -73,7 +73,7 @@ Why is it stinky?
 ### About
 
 - renamed PC from "DESKTOP-F49LF5T" to "FRC6506-Driver-Station"
-- OS: WIndows 10 Pro Education
+- OS: Windows 10 Pro Education
 
 ## Settings > Devices
 
@@ -86,7 +86,7 @@ Why is it stinky?
 
 - Switched to "Ask me every time"
 
-## Windows Update ROund 2 Electric Boogaloe
+## Windows Update Round 2 Electric Boogaloe
 
 Updates seems to be hung, so I restarted and it said they failed to install.  I'll leave it be this time and change any settings.  Haven't had issues like this in a wile though.  Ran the Windows update troubleshooter when it didn't seem to be downloading and retired updates.  I tried to install something else and didn't work.  Ran DISM, SFC, & CHKDSK (graphically), as well as troubleshooter again.  DISM says it worked on the image, but nothing else seems to have succeeded at anything.  Now 20H2 says installing, but WMC says it stopped working.
 
@@ -178,7 +178,7 @@ I have not configured a password yet.
 
 ### Date & Time
 
-- Enabled "Set time zone automaticallyY"
+- Enabled "Set time zone automatically"
 
 ## Settings > Gaming
 
@@ -250,7 +250,7 @@ Was going to disable uploading, but it was grayed out
 
 - Also hid HP Smart in All Owned Apps
 
-## Settings > Personation > Themes > Desktop Icon Settings
+## Settings > Personalization > Themes > Desktop Icon Settings
 
 - Un-hid some useful icons
 

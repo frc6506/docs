@@ -55,7 +55,8 @@
         "wordlists",
         "WPILIB",
         "wpilibsuite",
-        "WRRF"
+        "WRRF",
+        "YYYYMMDDTH"
     ],
     "markdownlint.config": {
         "MD013": false,

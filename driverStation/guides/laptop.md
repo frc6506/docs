@@ -27,9 +27,9 @@ This guide will explain the physical aspects of the team's driver station laptop
 
 ## Information
 
-Refer to the official Dell Latitude 3480 Visual Guide: [PDP saved in Documents](DellLatitude3480_VisualGuide.pdf) or [Original Webpage (dell.com)](https://www.dell.com/support/kbdoc/en-us/printview/000129669/10/en)
+Refer to the official Dell Latitude 3480 Visual Guide: [PDP saved in Documents](DellLatitude3480_VisualGuide.pdf) or [Original Website (dell.com)](https://www.dell.com/support/kbdoc/en-us/printview/000129669/10/en)
 
-For function key keyboard shortcuts see the official Dell Latitude 3480 and 3490 Keyboard Guide: [PDF saved in Documents](DellLatitude3480_KeyboardGuide.pdf) or [Original Webpage (dell.com)](https://www.dell.com/support/kbdoc/en-us/printview/000124996/10/en)
+For function key keyboard shortcuts see the official Dell Latitude 3480 and 3490 Keyboard Guide: [PDF saved in Documents](DellLatitude3480_KeyboardGuide.pdf) or [Original Website (dell.com)](https://www.dell.com/support/kbdoc/en-us/printview/000124996/10/en)
 
 ## Related
 

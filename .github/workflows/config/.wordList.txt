@@ -2,7 +2,9 @@ allwpilib
 APCSA
 appdata
 AppData
+AutoPlay
 avtodev
+backlight
 Banas
 BobinMathew
 BobSaidHi
@@ -35,8 +37,11 @@ eg
 else
 else's
 else’s
+Esc
+Eww
 exe
 faq
+Fn
 frc
 FRC
 FRCteam
@@ -56,6 +61,7 @@ JDK
 JDK's
 JDKs
 Kanban
+LF
 linter
 markdownlint
 md
@@ -71,6 +77,7 @@ Nickin's
 octocat
 OmniMount
 Onedrive
+OneDrive
 Onenote
 Onshape
 OOP
@@ -79,11 +86,13 @@ OpenMesh
 orgs
 PCM
 PDP
+personalization
 PID
 powershell
 pre
 println
 programiz
+PrtScr
 py
 README
 README's
@@ -97,6 +106,8 @@ RSL
 runtime
 Runtime
 sexualized
+SFC
+SGX
 socio
 SparkMax
 Sponsorships
@@ -115,6 +126,7 @@ Trayford's
 txt
 UEFI
 UI
+Un
 Unicode
 USERPROFILE
 VCS
@@ -129,6 +141,7 @@ VSCode's
 vsliveshare
 weebly
 Wikiversity
+WMC
 wordList
 WPILBJ
 wpilib
@@ -138,5 +151,7 @@ wpilibsuite
 WPLib
 WRRF
 www
+Xbox
 yaml
 yml
+YYYYMMDDTHHmm
