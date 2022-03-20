@@ -340,12 +340,12 @@ I did bookmark some useful websites (Like this one)
 
 ## Control Panel > Hardware and Sound
 
-### Power Options > System Settings > Edit Plaln Settigs
+### Power Options > System Settings > Edit Plan Settings
 
 - Dibbled USB Selective suspend as per [here](https://docs.wpilib.org/en/stable/docs/software/driverstation/driver-station-best-practices.html)
 - Left hibernate after 180 minutes on
-- Left turn off hard disk as after 10 mintus
-- Left crictal batteyr action as hbiernate
+- Left turn off hard disk as after 10 minutes
+- Left critical battery action as hibernate
 
 ## WPILib Tools
 
