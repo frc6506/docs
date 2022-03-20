@@ -53,6 +53,7 @@ helloArray
 helloString
 html
 https
+HWInfo
 io
 Javacademy
 Javadoc
