@@ -13,7 +13,7 @@ This guide will ...
 ## Related
 
 [Previous - ...](...)
-Current URL: `docs.steelbootrobotics.org/docs/driverStation/guides` (Alternate URL: `frc6506.github.io/docs/driverStation/guides`)
+Current URL: `docs.steelbootrobotics.org/docs/driverStation/guides/pageFileName` (Alternate URL: `frc6506.github.io/docs/driverStation/guides/pageFileName`)
 [Next - ...](...)
 
 <br>

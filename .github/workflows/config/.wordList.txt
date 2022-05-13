@@ -38,6 +38,7 @@ else
 else's
 else’s
 Esc
+ethernet
 Eww
 exe
 faq
@@ -45,6 +46,7 @@ Fn
 frc
 FRC
 FRCteam
+FTA
 gifs
 github
 gitignore
@@ -101,6 +103,7 @@ repo
 reverified
 REVLib
 revrobotics
+RJ
 roboRIO
 rojopolis
 RSL
