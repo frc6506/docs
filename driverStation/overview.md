@@ -26,7 +26,7 @@
 
 ## Know Problems
 
-| Description | Mitigation / Work Around | Date Discoverd | Notes |
+| Description | Mitigation / Work Around | Date Discovered | Notes |
 |---|---|---|---|
 | "Alert! TPM device not detected" _warning on boot_ | Press [C] or click `Continue` to ignore the warning | Before 05/01/2022 | Started occurring after BIOS update via Dell Command Update.  It is possible to disable warnings, but that seems like a bad idea. |
 | _Ethernet cable loose_ OR _intermediate ethernet disconnect_. | _Use a USB - $J-45 ethernet adapter_ | Before 05/01/2022 | According to an FTA, the ethernet port is going bad.  The cable is actually able to wiggle in and out of the RJ-45 port.  I have also noticed the port's trim seems a bit warped.  _DO NOT USE the RJ-45 ethernet port_ |
