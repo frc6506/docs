@@ -8,9 +8,9 @@
 
 | Guide | When to use | Purpose |
 |---|---|---|
-| [Pre Competition](/guides/preCompetition) | During build season, _two weeks to a month before_ competition |
-| [At Competition](/guides/atCompetition) | Upon arrival to a competition | Final preparations to ensure optimal performance |
-| [Post Competition](/guides/postCompetition) | Upon return from competition before connecting to the internet | Return the laptop to a secure state that is safe to connect to the internet in order to perform updates |
+| [Pre Competition](guides/preCompetition) | During build season, _two weeks to a month before_ competition |
+| [At Competition](guides/atCompetition) | Upon arrival to a competition | Final preparations to ensure optimal performance |
+| [Post Competition](guides/postCompetition) | Upon return from competition before connecting to the internet | Return the laptop to a secure state that is safe to connect to the internet in order to perform updates |
 
 ### Other Guides
 
@@ -18,9 +18,9 @@
 
 | Guide | Purpose |
 |---|---|
-| [Laptop](/guides/laptop) | General information about using a Windows laptop, specially our Dell Latitude 3480 |
-| [Windows](/guides/windows) | General guide to how to use Windows, in particular as configured on our Dell Latitude 3480 |
-| [Template](/guides/template); [GitHub link](https://github.com/frc6506/docs/blob/master/driverStation/guides/template.md) | This is just a template for guides. |
+| [Laptop](guides/laptop) | General information about using a Windows laptop, specially our Dell Latitude 3480 |
+| [Windows](guides/windows) | General guide to how to use Windows, in particular as configured on our Dell Latitude 3480 |
+| [Template](guides/template); [GitHub link](https://github.com/frc6506/docs/blob/master/driverStation/guides/template.md) | This is just a template for guides. |
 
 ## Maintenance
 
